@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:44:01.467Z",
+  "generatedAt": "2026-10-01T09:44:22.883Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -7016,17 +7016,31 @@
       "slug": "banners",
       "title": "Banners",
       "blurb": "Wide-format campaign banners.",
-      "count": 11,
-      "imageCount": 11,
+      "count": 12,
+      "imageCount": 12,
       "videoCount": 0,
       "groups": [
         {
           "name": "All",
-          "count": 11
+          "count": 12
         }
       ],
-      "cover": "/media/banners/c93dd228ad_t.webp",
+      "cover": "/media/banners/32d11240d8_t.webp",
       "items": [
+        {
+          "id": "32d11240d8",
+          "kind": "image",
+          "src": "/media/banners/32d11240d8.webp",
+          "thumb": "/media/banners/32d11240d8_t.webp",
+          "poster": null,
+          "width": 3165,
+          "height": 1407,
+          "group": "All",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "c93dd228ad",
           "kind": "image",
