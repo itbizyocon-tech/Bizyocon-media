@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:42:28.876Z",
+  "generatedAt": "2026-10-01T08:42:38.340Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 215,
-      "imageCount": 114,
+      "count": 214,
+      "imageCount": 113,
       "videoCount": 101,
       "groups": [
         {
@@ -71,7 +71,7 @@
         },
         {
           "name": "Swastik Elenza",
-          "count": 14
+          "count": 13
         }
       ],
       "cover": "/media/real-estate/91d2b864d1_t.webp",
@@ -2887,20 +2887,6 @@
           "group": "Swastik Elenza",
           "postType": "Normal",
           "caption": "Built with love, filled with laughter, and lived with meaning...📍S.P.Ring Road, New Nikol, Kath",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "b6d464f32c",
-          "kind": "image",
-          "src": "/media/real-estate/b6d464f32c.webp",
-          "thumb": "/media/real-estate/b6d464f32c_t.webp",
-          "poster": null,
-          "width": 1170,
-          "height": 1463,
-          "group": "Swastik Elenza",
-          "postType": "Normal",
-          "caption": "Find your center in a space designed for serenity and soul-searching...📍S.P.Ring Road, New Niko",
           "client": null,
           "slides": null
         },
