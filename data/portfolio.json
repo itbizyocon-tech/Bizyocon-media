@@ -1,14 +1,18 @@
 {
-  "generatedAt": "2026-10-01T07:09:59.395Z",
+  "generatedAt": "2026-10-01T07:19:22.688Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 226,
-      "imageCount": 125,
+      "count": 227,
+      "imageCount": 126,
       "videoCount": 101,
       "groups": [
+        {
+          "name": "Durability Sync Test",
+          "count": 1
+        },
         {
           "name": "Akshar Group",
           "count": 5
@@ -70,8 +74,22 @@
           "count": 17
         }
       ],
-      "cover": "/media/real-estate/91d2b864d1_t.webp",
+      "cover": "/media/real-estate/dfa2b75552_t.webp",
       "items": [
+        {
+          "id": "dfa2b75552",
+          "kind": "image",
+          "src": "/media/real-estate/dfa2b75552.webp",
+          "thumb": "/media/real-estate/dfa2b75552_t.webp",
+          "poster": null,
+          "width": 1,
+          "height": 1,
+          "group": "Durability Sync Test",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "2559b5d7a9",
           "kind": "image",
