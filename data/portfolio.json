@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:02:46.528Z",
+  "generatedAt": "2026-10-01T09:02:58.215Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -6026,13 +6026,13 @@
       "slug": "ecommerce",
       "title": "E-Commerce",
       "blurb": "Product storytelling & scroll-stopping creatives for D2C brands.",
-      "count": 37,
-      "imageCount": 37,
+      "count": 36,
+      "imageCount": 36,
       "videoCount": 0,
       "groups": [
         {
           "name": "Aarwa",
-          "count": 7
+          "count": 6
         },
         {
           "name": "Tifco",
@@ -6256,20 +6256,6 @@
           "group": "Aarwa",
           "postType": null,
           "caption": "It’s strange how something invisiblecan feel this close...",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "d29c000133",
-          "kind": "image",
-          "src": "/media/ecommerce/d29c000133.webp",
-          "thumb": "/media/ecommerce/d29c000133_t.webp",
-          "poster": null,
-          "width": 1170,
-          "height": 1462,
-          "group": "Aarwa",
-          "postType": null,
-          "caption": "Not just a scent, but a feeling you’ll never forget.Made for moments that turn into forever. 💫.",
           "client": null,
           "slides": null
         },
