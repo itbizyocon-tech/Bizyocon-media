@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:47:58.775Z",
+  "generatedAt": "2026-10-01T08:48:13.239Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 168,
-      "imageCount": 118,
+      "count": 167,
+      "imageCount": 117,
       "videoCount": 50,
       "groups": [
         {
@@ -3090,7 +3090,7 @@
         },
         {
           "name": "HP",
-          "count": 19
+          "count": 18
         },
         {
           "name": "Influencer",
@@ -4050,20 +4050,6 @@
           "group": "HP",
           "postType": "Festival",
           "caption": "May the divine grace of Lord Rama bless your life with eternal truth, purity, and the strength o",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "241a81d6e2",
-          "kind": "image",
-          "src": "/media/manufacturing/241a81d6e2.webp",
-          "thumb": "/media/manufacturing/241a81d6e2_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "HP",
-          "postType": "Festival",
-          "caption": "On Sardar Vallabhbhai Patel Jayanti, we honor the values of unity, strength, and trust.HP Engine",
           "client": null,
           "slides": null
         },
