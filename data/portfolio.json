@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:57:11.834Z",
+  "generatedAt": "2026-10-01T08:57:34.725Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -6026,13 +6026,13 @@
       "slug": "ecommerce",
       "title": "E-Commerce",
       "blurb": "Product storytelling & scroll-stopping creatives for D2C brands.",
-      "count": 32,
-      "imageCount": 32,
+      "count": 33,
+      "imageCount": 33,
       "videoCount": 0,
       "groups": [
         {
           "name": "Tifco",
-          "count": 6
+          "count": 7
         },
         {
           "name": "Ads",
@@ -6049,6 +6049,20 @@
       ],
       "cover": "/media/ecommerce/9b718816a1_t.webp",
       "items": [
+        {
+          "id": "a45a2627e2",
+          "kind": "image",
+          "src": "/media/ecommerce/a45a2627e2.webp",
+          "thumb": "/media/ecommerce/a45a2627e2_t.webp",
+          "poster": null,
+          "width": 2160,
+          "height": 2700,
+          "group": "Tifco",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "bbaa8d828d",
           "kind": "image",
