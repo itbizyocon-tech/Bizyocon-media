@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:40:11.348Z",
+  "generatedAt": "2026-10-01T08:40:22.730Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 228,
-      "imageCount": 127,
+      "count": 227,
+      "imageCount": 126,
       "videoCount": 101,
       "groups": [
         {
@@ -67,7 +67,7 @@
         },
         {
           "name": "Shree Radhe Krishna",
-          "count": 26
+          "count": 25
         },
         {
           "name": "Swastik Elenza",
@@ -2733,20 +2733,6 @@
           "group": "Shree Radhe Krishna",
           "postType": "Festival",
           "caption": "On Maha Ashtami, may Maa Durga bless you with strength, wisdom, and prosperity...📍 3BHK Flats &",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "9d46ef1c77",
-          "kind": "image",
-          "src": "/media/real-estate/9d46ef1c77.webp",
-          "thumb": "/media/real-estate/9d46ef1c77_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Shree Radhe Krishna",
-          "postType": "Festival",
-          "caption": "નવા આરંભ માટે perfect home જોઈએ Radhe Krishna Sparsh માં દરેક ઈંટ વિશ્વાસ અને જીતની કથા કહે છે.",
           "client": null,
           "slides": null
         },
