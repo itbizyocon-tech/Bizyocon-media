@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:03:05.801Z",
+  "generatedAt": "2026-10-01T09:15:34.847Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,10 +3064,14 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 153,
-      "imageCount": 103,
+      "count": 154,
+      "imageCount": 104,
       "videoCount": 50,
       "groups": [
+        {
+          "name": "Khodiyar Industries",
+          "count": 1
+        },
         {
           "name": "Ads",
           "count": 6
@@ -3115,6 +3119,20 @@
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
       "items": [
+        {
+          "id": "6ae660b1aa",
+          "kind": "image",
+          "src": "/media/manufacturing/6ae660b1aa.webp",
+          "thumb": "/media/manufacturing/6ae660b1aa_t.webp",
+          "poster": null,
+          "width": 1080,
+          "height": 1350,
+          "group": "Khodiyar Industries",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "d33c25a73f",
           "kind": "image",
