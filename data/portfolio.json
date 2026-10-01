@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:56:45.197Z",
+  "generatedAt": "2026-10-01T08:56:51.010Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -6026,8 +6026,8 @@
       "slug": "ecommerce",
       "title": "E-Commerce",
       "blurb": "Product storytelling & scroll-stopping creatives for D2C brands.",
-      "count": 33,
-      "imageCount": 33,
+      "count": 32,
+      "imageCount": 32,
       "videoCount": 0,
       "groups": [
         {
@@ -6044,7 +6044,7 @@
         },
         {
           "name": "Tifco",
-          "count": 7
+          "count": 6
         }
       ],
       "cover": "/media/ecommerce/9b718816a1_t.webp",
@@ -6424,20 +6424,6 @@
           "group": "Tifco",
           "postType": "Normal",
           "caption": "Dive into the magnetic freshness of TIFCO Ocean a refreshing blend of vibrant citrus, warm ginge",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "28fdfd6d0d",
-          "kind": "image",
-          "src": "/media/ecommerce/28fdfd6d0d.webp",
-          "thumb": "/media/ecommerce/28fdfd6d0d_t.webp",
-          "poster": null,
-          "width": 1170,
-          "height": 1463,
-          "group": "Tifco",
-          "postType": "Normal",
-          "caption": "DUSK Fresh Earthiness. Timeless Depth. 🤎A refined blend of Bergamot, Geranium, and Cedarwood—m",
           "client": null,
           "slides": null
         },
