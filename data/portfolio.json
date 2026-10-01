@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:46:52.542Z",
+  "generatedAt": "2026-10-01T08:47:06.023Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 174,
-      "imageCount": 124,
+      "count": 173,
+      "imageCount": 123,
       "videoCount": 50,
       "groups": [
         {
@@ -3090,7 +3090,7 @@
         },
         {
           "name": "HP",
-          "count": 25
+          "count": 24
         },
         {
           "name": "Influencer",
@@ -4106,20 +4106,6 @@
           "group": "HP",
           "postType": "Festival",
           "caption": "On Sardar Vallabhbhai Patel Jayanti, we honor the values of unity, strength, and trust.HP Engine",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "2148b56846",
-          "kind": "image",
-          "src": "/media/manufacturing/2148b56846.webp",
-          "thumb": "/media/manufacturing/2148b56846_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "HP",
-          "postType": "Festival",
-          "caption": "On the auspicious occasion of Rath Yatra, HP Engineers wishes you and your family happiness, pro",
           "client": null,
           "slides": null
         },
