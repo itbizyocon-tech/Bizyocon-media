@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:49:59.044Z",
+  "generatedAt": "2026-10-01T08:50:07.967Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 160,
-      "imageCount": 110,
+      "count": 159,
+      "imageCount": 109,
       "videoCount": 50,
       "groups": [
         {
@@ -3074,7 +3074,7 @@
         },
         {
           "name": "Arlon",
-          "count": 20
+          "count": 19
         },
         {
           "name": "Bright Equipment",
@@ -3238,20 +3238,6 @@
           "group": "Arlon",
           "postType": "Festival",
           "caption": "Building a Transparent India, one step at a time.Celebrating GST Day — a symbol of simplified ta",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "de7facb458",
-          "kind": "image",
-          "src": "/media/manufacturing/de7facb458.webp",
-          "thumb": "/media/manufacturing/de7facb458_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Arlon",
-          "postType": "Festival",
-          "caption": "From the golden fields to hearts full of gratitude, wishing you a Baisakhi filled with joy, pros",
           "client": null,
           "slides": null
         },
