@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-01T08:41:31.685Z",
+  "generatedAt": "2026-10-01T08:41:38.986Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 222,
-      "imageCount": 121,
+      "count": 221,
+      "imageCount": 120,
       "videoCount": 101,
       "groups": [
         {
           "name": "Shree Radhe Krishna",
-          "count": 20
+          "count": 19
         },
         {
           "name": "Vision Ventilla",
@@ -2719,20 +2719,6 @@
           "group": "Shree Radhe Krishna",
           "postType": "Festival",
           "caption": "May your days be filled with hope, love, and endless prosperity...📍 3BHK Flats & Shops - 30+ Am",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "f7452c63de",
-          "kind": "image",
-          "src": "/media/real-estate/f7452c63de.webp",
-          "thumb": "/media/real-estate/f7452c63de_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Shree Radhe Krishna",
-          "postType": "Festival",
-          "caption": "On Maha Ashtami, may Maa Durga bless you with strength, wisdom, and prosperity...📍 3BHK Flats &",
           "client": null,
           "slides": null
         },
