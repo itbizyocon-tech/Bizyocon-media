@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:50:07.967Z",
+  "generatedAt": "2026-10-01T08:50:21.738Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 159,
-      "imageCount": 109,
+      "count": 158,
+      "imageCount": 108,
       "videoCount": 50,
       "groups": [
         {
@@ -3098,7 +3098,7 @@
         },
         {
           "name": "Mital Blowers",
-          "count": 26
+          "count": 25
         },
         {
           "name": "Panara",
@@ -4218,20 +4218,6 @@
           "group": "Mital Blowers",
           "postType": "Festival",
           "caption": "As the sacred flames of Holika Dahan rise, may negativity fade and new beginnings shine bright.",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "6c7fe5a191",
-          "kind": "image",
-          "src": "/media/manufacturing/6c7fe5a191.webp",
-          "thumb": "/media/manufacturing/6c7fe5a191_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Mital Blowers",
-          "postType": "Festival",
-          "caption": "Every effort matters, every worker counts.",
           "client": null,
           "slides": null
         },
