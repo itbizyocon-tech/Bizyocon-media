@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:48:13.239Z",
+  "generatedAt": "2026-10-01T08:48:26.953Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 167,
-      "imageCount": 117,
+      "count": 166,
+      "imageCount": 116,
       "videoCount": 50,
       "groups": [
         {
@@ -3102,7 +3102,7 @@
         },
         {
           "name": "Panara",
-          "count": 12
+          "count": 11
         },
         {
           "name": "Regular post",
@@ -4736,20 +4736,6 @@
           "group": "Panara",
           "postType": "Normal",
           "caption": "Curtains control karna ab hua effortless ✨Mobile App, Alexa, Remote ya One Touch — Panara Smart",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "4ec2056a3b",
-          "kind": "image",
-          "src": "/media/manufacturing/4ec2056a3b.webp",
-          "thumb": "/media/manufacturing/4ec2056a3b_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1439,
-          "group": "Panara",
-          "postType": "Normal",
-          "caption": "Experience comfort that works on its own.With Panara motorized blinds, your space adjusts autom",
           "client": null,
           "slides": null
         },
