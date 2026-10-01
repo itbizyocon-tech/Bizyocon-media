@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-01T08:39:19.577Z",
+  "generatedAt": "2026-10-01T08:39:28.871Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 232,
-      "imageCount": 131,
+      "count": 231,
+      "imageCount": 130,
       "videoCount": 101,
       "groups": [
         {
           "name": "Vision Ventilla",
-          "count": 6
+          "count": 5
         },
         {
           "name": "Akshar Group",
@@ -76,20 +76,6 @@
       ],
       "cover": "/media/real-estate/91d2b864d1_t.webp",
       "items": [
-        {
-          "id": "fac45ceb12",
-          "kind": "image",
-          "src": "/media/real-estate/fac45ceb12.webp",
-          "thumb": "/media/real-estate/fac45ceb12_t.webp",
-          "poster": null,
-          "width": 1638,
-          "height": 2048,
-          "group": "Vision Ventilla",
-          "postType": null,
-          "caption": null,
-          "client": null,
-          "slides": null
-        },
         {
           "id": "a220287d8e",
           "kind": "image",
