@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:41:54.173Z",
+  "generatedAt": "2026-10-01T08:42:01.151Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 219,
-      "imageCount": 118,
+      "count": 218,
+      "imageCount": 117,
       "videoCount": 101,
       "groups": [
         {
@@ -55,7 +55,7 @@
         },
         {
           "name": "Pushpam Flora",
-          "count": 16
+          "count": 15
         },
         {
           "name": "Regular Post",
@@ -1571,20 +1571,6 @@
           "group": "Pushpam Flora",
           "postType": "Normal",
           "caption": "A space designed for your quiet moments...📍Lambha, Ahmedabad📞+91 84604 48148..",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "8368b6a4d3",
-          "kind": "image",
-          "src": "/media/real-estate/8368b6a4d3.webp",
-          "thumb": "/media/real-estate/8368b6a4d3_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Pushpam Flora",
-          "postType": "Normal",
-          "caption": "Escape the daily hustle and find your peace at Pushpam Floras beautifully designed Gazebo—the p",
           "client": null,
           "slides": null
         },
