@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:42:38.340Z",
+  "generatedAt": "2026-10-01T08:43:02.784Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 214,
-      "imageCount": 113,
+      "count": 213,
+      "imageCount": 112,
       "videoCount": 101,
       "groups": [
         {
@@ -67,7 +67,7 @@
         },
         {
           "name": "SB Cristoria",
-          "count": 10
+          "count": 9
         },
         {
           "name": "Swastik Elenza",
@@ -2481,20 +2481,6 @@
           "group": "Sample House",
           "postType": null,
           "caption": "videoplayback",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "34bc97c149",
-          "kind": "image",
-          "src": "/media/real-estate/34bc97c149.webp",
-          "thumb": "/media/real-estate/34bc97c149_t.webp",
-          "poster": null,
-          "width": 1201,
-          "height": 1501,
-          "group": "SB Cristoria",
-          "postType": "Normal",
-          "caption": "A home so big, you might actually lose your keys for a few days. 🗝️🕵️_♂️_Why squeeze your life",
           "client": null,
           "slides": null
         },
