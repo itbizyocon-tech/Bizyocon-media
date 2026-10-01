@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:59:08.636Z",
+  "generatedAt": "2026-10-01T08:59:18.882Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -6026,8 +6026,8 @@
       "slug": "ecommerce",
       "title": "E-Commerce",
       "blurb": "Product storytelling & scroll-stopping creatives for D2C brands.",
-      "count": 36,
-      "imageCount": 36,
+      "count": 35,
+      "imageCount": 35,
       "videoCount": 0,
       "groups": [
         {
@@ -6040,7 +6040,7 @@
         },
         {
           "name": "Aarwa",
-          "count": 6
+          "count": 5
         },
         {
           "name": "The Premium Fragrance",
@@ -6228,20 +6228,6 @@
           "group": "Aarwa",
           "postType": null,
           "caption": "It’s strange how something invisiblecan feel this close...",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "7f48b4a027",
-          "kind": "image",
-          "src": "/media/ecommerce/7f48b4a027.webp",
-          "thumb": "/media/ecommerce/7f48b4a027_t.webp",
-          "poster": null,
-          "width": 1170,
-          "height": 1560,
-          "group": "Aarwa",
-          "postType": null,
-          "caption": "Just a quiet choice.The kind that says who he is becoming before anyone else does.The mark begin",
           "client": null,
           "slides": null
         },
