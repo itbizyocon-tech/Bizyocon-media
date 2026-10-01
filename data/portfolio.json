@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:39:56.595Z",
+  "generatedAt": "2026-10-01T08:40:02.740Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 230,
-      "imageCount": 129,
+      "count": 229,
+      "imageCount": 128,
       "videoCount": 101,
       "groups": [
         {
@@ -63,7 +63,7 @@
         },
         {
           "name": "SB Cristoria",
-          "count": 12
+          "count": 11
         },
         {
           "name": "Shree Radhe Krishna",
@@ -2635,20 +2635,6 @@
           "group": "SB Cristoria",
           "postType": "Normal",
           "caption": "Pin your future at the perfect address. 📍✨_Discover Crestoria by SB Group—premium 3BHK family a",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "193f766a0d",
-          "kind": "image",
-          "src": "/media/real-estate/193f766a0d.webp",
-          "thumb": "/media/real-estate/193f766a0d_t.webp",
-          "poster": null,
-          "width": 1201,
-          "height": 1501,
-          "group": "SB Cristoria",
-          "postType": "Normal",
-          "caption": "Space is the ultimate luxury._Crestoria’s premium 3BHK residences by SB Group are meticulously d",
           "client": null,
           "slides": null
         },
