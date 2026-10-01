@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:50:58.675Z",
+  "generatedAt": "2026-10-01T08:51:08.539Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 155,
-      "imageCount": 105,
+      "count": 154,
+      "imageCount": 104,
       "videoCount": 50,
       "groups": [
         {
@@ -3098,7 +3098,7 @@
         },
         {
           "name": "Mital Blowers",
-          "count": 22
+          "count": 21
         },
         {
           "name": "Panara",
@@ -4288,20 +4288,6 @@
           "group": "Mital Blowers",
           "postType": "Festival",
           "caption": "This Holi, let’s celebrate the colors of unity, growth, and progress. May every shade inspire in",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "5c4bb3d0b7",
-          "kind": "image",
-          "src": "/media/manufacturing/5c4bb3d0b7.webp",
-          "thumb": "/media/manufacturing/5c4bb3d0b7_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Mital Blowers",
-          "postType": "Festival",
-          "caption": "True precision starts from within - find your balance and connect with your inner strength this",
           "client": null,
           "slides": null
         },
