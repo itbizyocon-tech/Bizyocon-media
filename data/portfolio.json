@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:02:58.215Z",
+  "generatedAt": "2026-10-01T09:03:05.801Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -6026,13 +6026,13 @@
       "slug": "ecommerce",
       "title": "E-Commerce",
       "blurb": "Product storytelling & scroll-stopping creatives for D2C brands.",
-      "count": 36,
-      "imageCount": 36,
+      "count": 35,
+      "imageCount": 35,
       "videoCount": 0,
       "groups": [
         {
           "name": "Aarwa",
-          "count": 6
+          "count": 5
         },
         {
           "name": "Tifco",
@@ -6228,20 +6228,6 @@
           "group": "Ads",
           "postType": "Ads",
           "caption": "E-Commerce ad creative — Post size",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "5a2655999d",
-          "kind": "image",
-          "src": "/media/ecommerce/5a2655999d.webp",
-          "thumb": "/media/ecommerce/5a2655999d_t.webp",
-          "poster": null,
-          "width": 1170,
-          "height": 1462,
-          "group": "Aarwa",
-          "postType": null,
-          "caption": "Because even your everyday should feel like the weekend...",
           "client": null,
           "slides": null
         },
