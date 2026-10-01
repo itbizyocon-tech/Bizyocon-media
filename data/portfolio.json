@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:50:44.083Z",
+  "generatedAt": "2026-10-01T08:50:58.675Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 156,
-      "imageCount": 106,
+      "count": 155,
+      "imageCount": 105,
       "videoCount": 50,
       "groups": [
         {
@@ -3098,7 +3098,7 @@
         },
         {
           "name": "Mital Blowers",
-          "count": 23
+          "count": 22
         },
         {
           "name": "Panara",
@@ -4232,20 +4232,6 @@
           "group": "Mital Blowers",
           "postType": "Festival",
           "caption": "Make this Akhatrij count—upgrade your plant efficiency and power your growth with Mittal Blowers",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "e13d2bc997",
-          "kind": "image",
-          "src": "/media/manufacturing/e13d2bc997.webp",
-          "thumb": "/media/manufacturing/e13d2bc997_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Mital Blowers",
-          "postType": "Festival",
-          "caption": "May Lord Ganesha remove all obstacles and bless your journey with growth! – Mittal Blower..📞 +9",
           "client": null,
           "slides": null
         },
