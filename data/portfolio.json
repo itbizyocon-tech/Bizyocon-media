@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:47:33.980Z",
+  "generatedAt": "2026-10-01T08:47:38.738Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 171,
-      "imageCount": 121,
+      "count": 170,
+      "imageCount": 120,
       "videoCount": 50,
       "groups": [
         {
@@ -3090,7 +3090,7 @@
         },
         {
           "name": "HP",
-          "count": 22
+          "count": 21
         },
         {
           "name": "Influencer",
@@ -4134,20 +4134,6 @@
           "group": "HP",
           "postType": "Festival",
           "caption": "Wishing you a Christmas filled with joy, peace, and prosperity.May the season bring warmth to yo",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "332863162f",
-          "kind": "image",
-          "src": "/media/manufacturing/332863162f.webp",
-          "thumb": "/media/manufacturing/332863162f_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "HP",
-          "postType": "Festival",
-          "caption": "નવું વર્ષ તમારા પરિવાર માટેસુખ સમૃદ્ધિ,આનંદમય અને શાંતિપૂર્વક જાયએવી નવા વર્ષની શુભેચ્છાસાલમુબા",
           "client": null,
           "slides": null
         },
