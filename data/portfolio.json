@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:49:42.106Z",
+  "generatedAt": "2026-10-01T08:49:59.044Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 161,
-      "imageCount": 111,
+      "count": 160,
+      "imageCount": 110,
       "videoCount": 50,
       "groups": [
         {
@@ -3074,7 +3074,7 @@
         },
         {
           "name": "Arlon",
-          "count": 21
+          "count": 20
         },
         {
           "name": "Bright Equipment",
@@ -3238,20 +3238,6 @@
           "group": "Arlon",
           "postType": "Festival",
           "caption": "Building a Transparent India, one step at a time.Celebrating GST Day — a symbol of simplified ta",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "fdd42295dd",
-          "kind": "image",
-          "src": "/media/manufacturing/fdd42295dd.webp",
-          "thumb": "/media/manufacturing/fdd42295dd_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Arlon",
-          "postType": "Festival",
-          "caption": "Celebrating the sacred journey of Lord Jagannath with devotion and grace... #",
           "client": null,
           "slides": null
         },
