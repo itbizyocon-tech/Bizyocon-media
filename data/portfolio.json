@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:02:27.229Z",
+  "generatedAt": "2026-10-01T09:02:46.528Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -6026,13 +6026,13 @@
       "slug": "ecommerce",
       "title": "E-Commerce",
       "blurb": "Product storytelling & scroll-stopping creatives for D2C brands.",
-      "count": 36,
-      "imageCount": 36,
+      "count": 37,
+      "imageCount": 37,
       "videoCount": 0,
       "groups": [
         {
           "name": "Aarwa",
-          "count": 6
+          "count": 7
         },
         {
           "name": "Tifco",
@@ -6049,6 +6049,20 @@
       ],
       "cover": "/media/ecommerce/9b718816a1_t.webp",
       "items": [
+        {
+          "id": "16d7907a57",
+          "kind": "image",
+          "src": "/media/ecommerce/16d7907a57.webp",
+          "thumb": "/media/ecommerce/16d7907a57_t.webp",
+          "poster": null,
+          "width": 1638,
+          "height": 2048,
+          "group": "Aarwa",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "571b93406c",
           "kind": "image",
