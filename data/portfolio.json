@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:40:52.144Z",
+  "generatedAt": "2026-10-01T09:40:58.018Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -7025,7 +7025,7 @@
           "count": 2
         },
         {
-          "name": "Other",
+          "name": null,
           "count": 1
         }
       ],
@@ -7060,14 +7060,14 @@
           "slides": null
         },
         {
-          "id": "28999f0c10",
+          "id": "bf6625e91b",
           "kind": "image",
-          "src": "/media/banners/28999f0c10.webp",
-          "thumb": "/media/banners/28999f0c10_t.webp",
+          "src": "/media/banners/bf6625e91b.webp",
+          "thumb": "/media/banners/bf6625e91b_t.webp",
           "poster": null,
           "width": 3165,
           "height": 1407,
-          "group": "Other",
+          "group": null,
           "postType": null,
           "caption": null,
           "client": null,
