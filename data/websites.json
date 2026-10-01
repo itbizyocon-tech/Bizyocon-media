@@ -1,5 +1,13 @@
 [
   {
+    "id": "tatvika-logistics",
+    "name": "Tatvika Logistics",
+    "url": "https://tatvikalogistics.com/",
+    "screenshot": "/media/websites/tatvika-logistics-shot.webp",
+    "description": "Integrated logistics, warehousing, transportation and customs clearance from Mundra, Gujarat.",
+    "category": "other"
+  },
+  {
     "id": "hp-engineers",
     "name": "H P Engineers",
     "url": "https://hpengineers.co.in/",
