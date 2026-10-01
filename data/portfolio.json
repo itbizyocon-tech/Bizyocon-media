@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:56:58.842Z",
+  "generatedAt": "2026-10-01T08:57:11.834Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -6026,10 +6026,14 @@
       "slug": "ecommerce",
       "title": "E-Commerce",
       "blurb": "Product storytelling & scroll-stopping creatives for D2C brands.",
-      "count": 31,
-      "imageCount": 31,
+      "count": 32,
+      "imageCount": 32,
       "videoCount": 0,
       "groups": [
+        {
+          "name": "Tifco",
+          "count": 6
+        },
         {
           "name": "Ads",
           "count": 5
@@ -6041,14 +6045,24 @@
         {
           "name": "The Premium Fragrance",
           "count": 15
-        },
-        {
-          "name": "Tifco",
-          "count": 5
         }
       ],
       "cover": "/media/ecommerce/9b718816a1_t.webp",
       "items": [
+        {
+          "id": "bbaa8d828d",
+          "kind": "image",
+          "src": "/media/ecommerce/bbaa8d828d.webp",
+          "thumb": "/media/ecommerce/bbaa8d828d_t.webp",
+          "poster": null,
+          "width": 2160,
+          "height": 2700,
+          "group": "Tifco",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "8f4e51eb55",
           "kind": "image",
