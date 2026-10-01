@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:48:26.953Z",
+  "generatedAt": "2026-10-01T08:48:44.380Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 166,
-      "imageCount": 116,
+      "count": 165,
+      "imageCount": 115,
       "videoCount": 50,
       "groups": [
         {
@@ -3082,7 +3082,7 @@
         },
         {
           "name": "CES Laser",
-          "count": 19
+          "count": 18
         },
         {
           "name": "festival Reels",
@@ -3714,20 +3714,6 @@
           "group": "CES Laser",
           "postType": "Festival",
           "caption": "A land where culture pride and tradition live in every heart and define true Gujarati identity .",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "e9aaa3725d",
-          "kind": "image",
-          "src": "/media/manufacturing/e9aaa3725d.webp",
-          "thumb": "/media/manufacturing/e9aaa3725d_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "CES Laser",
-          "postType": "Festival",
-          "caption": "Cheers to a fresh start and a bright future! May your commitment to precision turn every challen",
           "client": null,
           "slides": null
         },
