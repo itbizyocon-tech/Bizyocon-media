@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-01T08:41:00.043Z",
+  "generatedAt": "2026-10-01T08:41:07.984Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 224,
-      "imageCount": 123,
+      "count": 223,
+      "imageCount": 122,
       "videoCount": 101,
       "groups": [
         {
           "name": "Shree Radhe Krishna",
-          "count": 22
+          "count": 21
         },
         {
           "name": "Vision Ventilla",
@@ -2733,20 +2733,6 @@
           "group": "Shree Radhe Krishna",
           "postType": "Festival",
           "caption": "On his Jayanti, we salute the man who turned divers sardar patel jayanti...📍 3BHK Flats & Shops",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "f7452c63de",
-          "kind": "image",
-          "src": "/media/real-estate/f7452c63de.webp",
-          "thumb": "/media/real-estate/f7452c63de_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Shree Radhe Krishna",
-          "postType": "Festival",
-          "caption": "On Maha Ashtami, may Maa Durga bless you with strength, wisdom, and prosperity...📍 3BHK Flats &",
           "client": null,
           "slides": null
         },
