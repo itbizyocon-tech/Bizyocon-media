@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:40:02.740Z",
+  "generatedAt": "2026-10-01T08:40:11.348Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 229,
-      "imageCount": 128,
+      "count": 228,
+      "imageCount": 127,
       "videoCount": 101,
       "groups": [
         {
@@ -63,7 +63,7 @@
         },
         {
           "name": "SB Cristoria",
-          "count": 11
+          "count": 10
         },
         {
           "name": "Shree Radhe Krishna",
@@ -2551,20 +2551,6 @@
           "group": "SB Cristoria",
           "postType": "Normal",
           "caption": "Architecture that breathes. Light that inspires. ☀️🌿 Home isn’t just a place to unpack; its wh",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "0cbe8d5fac",
-          "kind": "image",
-          "src": "/media/real-estate/0cbe8d5fac.webp",
-          "thumb": "/media/real-estate/0cbe8d5fac_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1349,
-          "group": "SB Cristoria",
-          "postType": "Normal",
-          "caption": "Elevate your everyday. ✨_Discover a lifestyle where modern architecture meets effortless living",
           "client": null,
           "slides": null
         },
