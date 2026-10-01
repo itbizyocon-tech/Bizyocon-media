@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:48:51.823Z",
+  "generatedAt": "2026-10-01T08:49:06.264Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 164,
-      "imageCount": 114,
+      "count": 163,
+      "imageCount": 113,
       "videoCount": 50,
       "groups": [
         {
@@ -3082,7 +3082,7 @@
         },
         {
           "name": "CES Laser",
-          "count": 17
+          "count": 16
         },
         {
           "name": "festival Reels",
@@ -3728,20 +3728,6 @@
           "group": "CES Laser",
           "postType": "Festival",
           "caption": "Jab Satya, dharm aur sach ek saath khade hote hain tab vijay nishchit hoti hai. 🚩Happy Ram Nava",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "1d8d0967f3",
-          "kind": "image",
-          "src": "/media/manufacturing/1d8d0967f3.webp",
-          "thumb": "/media/manufacturing/1d8d0967f3_t.webp",
-          "poster": null,
-          "width": 1170,
-          "height": 1462,
-          "group": "CES Laser",
-          "postType": "Festival",
-          "caption": "Khushiyon ki ho bahaar, har din ho tyohaar jaisa.Aapko aur aapke parivaar ko Baisakhi ki hardik",
           "client": null,
           "slides": null
         },
