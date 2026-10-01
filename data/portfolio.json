@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:50:21.738Z",
+  "generatedAt": "2026-10-01T08:50:33.040Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 158,
-      "imageCount": 108,
+      "count": 157,
+      "imageCount": 107,
       "videoCount": 50,
       "groups": [
         {
@@ -3098,7 +3098,7 @@
         },
         {
           "name": "Mital Blowers",
-          "count": 25
+          "count": 24
         },
         {
           "name": "Panara",
@@ -4218,20 +4218,6 @@
           "group": "Mital Blowers",
           "postType": "Festival",
           "caption": "As the sacred flames of Holika Dahan rise, may negativity fade and new beginnings shine bright.",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "82bf5afa00",
-          "kind": "image",
-          "src": "/media/manufacturing/82bf5afa00.webp",
-          "thumb": "/media/manufacturing/82bf5afa00_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Mital Blowers",
-          "postType": "Festival",
-          "caption": "Just like the Lohri fire spreads warmth and energy, Mittal Blowers powers industries with consis",
           "client": null,
           "slides": null
         },
