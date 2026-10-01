@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:51:08.539Z",
+  "generatedAt": "2026-10-01T08:51:27.543Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 154,
-      "imageCount": 104,
+      "count": 153,
+      "imageCount": 103,
       "videoCount": 50,
       "groups": [
         {
@@ -3098,7 +3098,7 @@
         },
         {
           "name": "Mital Blowers",
-          "count": 21
+          "count": 20
         },
         {
           "name": "Panara",
@@ -4204,20 +4204,6 @@
           "group": "Influencer",
           "postType": null,
           "caption": "The Premium Fragrance_Testimonial",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "1f124a1022",
-          "kind": "image",
-          "src": "/media/manufacturing/1f124a1022.webp",
-          "thumb": "/media/manufacturing/1f124a1022_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Mital Blowers",
-          "postType": "Festival",
-          "caption": "As the sacred flames of Holika Dahan rise, may negativity fade and new beginnings shine bright.",
           "client": null,
           "slides": null
         },
