@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:48:44.380Z",
+  "generatedAt": "2026-10-01T08:48:51.823Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 165,
-      "imageCount": 115,
+      "count": 164,
+      "imageCount": 114,
       "videoCount": 50,
       "groups": [
         {
@@ -3082,7 +3082,7 @@
         },
         {
           "name": "CES Laser",
-          "count": 18
+          "count": 17
         },
         {
           "name": "festival Reels",
@@ -3784,20 +3784,6 @@
           "group": "CES Laser",
           "postType": "Festival",
           "caption": "On this Holika Dahan, CES Laser Machine Pvt. Ltd. wishes you strength, success, and powerful new",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "9c2129a0bd",
-          "kind": "image",
-          "src": "/media/manufacturing/9c2129a0bd.webp",
-          "thumb": "/media/manufacturing/9c2129a0bd_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "CES Laser",
-          "postType": "Festival",
-          "caption": "This Labh Pancham, may your life be filled with wealth and success...📞 Contact Details- +91 816",
           "client": null,
           "slides": null
         },
