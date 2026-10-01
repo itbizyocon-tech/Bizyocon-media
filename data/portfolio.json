@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:41:50.629Z",
+  "generatedAt": "2026-10-01T08:41:54.173Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 220,
-      "imageCount": 119,
+      "count": 219,
+      "imageCount": 118,
       "videoCount": 101,
       "groups": [
         {
@@ -55,7 +55,7 @@
         },
         {
           "name": "Pushpam Flora",
-          "count": 17
+          "count": 16
         },
         {
           "name": "Regular Post",
@@ -1557,20 +1557,6 @@
           "group": "Pushpam Flora",
           "postType": "Normal",
           "caption": "24×7 safety જ્યાં હોય, ઘર ત્યાં હોય 🔒Pushpam Flora aapko deta hai complete peace of mind-✅ CCTV",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "6869012c35",
-          "kind": "image",
-          "src": "/media/real-estate/6869012c35.webp",
-          "thumb": "/media/real-estate/6869012c35_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Pushpam Flora",
-          "postType": "Normal",
-          "caption": "A home where comfort meets care 🤍Designed for moments that matter…Comfortable corners for our e",
           "client": null,
           "slides": null
         },
