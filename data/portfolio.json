@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:43:02.784Z",
+  "generatedAt": "2026-10-01T08:46:52.542Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -3064,8 +3064,8 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 175,
-      "imageCount": 125,
+      "count": 174,
+      "imageCount": 124,
       "videoCount": 50,
       "groups": [
         {
@@ -3090,7 +3090,7 @@
         },
         {
           "name": "HP",
-          "count": 26
+          "count": 25
         },
         {
           "name": "Influencer",
@@ -4134,20 +4134,6 @@
           "group": "HP",
           "postType": "Festival",
           "caption": "Preserving the planet’s most precious resource with leak-proof, sustainable engineering...📞 Con",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "b68827ca23",
-          "kind": "image",
-          "src": "/media/manufacturing/b68827ca23.webp",
-          "thumb": "/media/manufacturing/b68827ca23_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "HP",
-          "postType": "Festival",
-          "caption": "This Independence Day, let’s salute the spirit of innovation and hard work that drives our natio",
           "client": null,
           "slides": null
         },
