@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:40:33.685Z",
+  "generatedAt": "2026-10-01T08:40:40.752Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 224,
-      "imageCount": 123,
+      "count": 223,
+      "imageCount": 122,
       "videoCount": 101,
       "groups": [
         {
@@ -67,7 +67,7 @@
         },
         {
           "name": "Shree Radhe Krishna",
-          "count": 22
+          "count": 21
         },
         {
           "name": "Swastik Elenza",
@@ -2741,20 +2741,6 @@
           "kind": "image",
           "src": "/media/real-estate/875a064faf.webp",
           "thumb": "/media/real-estate/875a064faf_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Shree Radhe Krishna",
-          "postType": "Festival",
-          "caption": "નવા આરંભ માટે perfect home જોઈએ Radhe Krishna Sparsh માં દરેક ઈંટ વિશ્વાસ અને જીતની કથા કહે છે.",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "11434486d5",
-          "kind": "image",
-          "src": "/media/real-estate/11434486d5.webp",
-          "thumb": "/media/real-estate/11434486d5_t.webp",
           "poster": null,
           "width": 1080,
           "height": 1350,
