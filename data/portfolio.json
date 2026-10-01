@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-01T08:41:08.819Z",
+  "generatedAt": "2026-10-01T08:41:31.685Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 223,
-      "imageCount": 122,
+      "count": 222,
+      "imageCount": 121,
       "videoCount": 101,
       "groups": [
         {
           "name": "Shree Radhe Krishna",
-          "count": 21
+          "count": 20
         },
         {
           "name": "Vision Ventilla",
@@ -2733,20 +2733,6 @@
           "group": "Shree Radhe Krishna",
           "postType": "Festival",
           "caption": "On Maha Ashtami, may Maa Durga bless you with strength, wisdom, and prosperity...📍 3BHK Flats &",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "875a064faf",
-          "kind": "image",
-          "src": "/media/real-estate/875a064faf.webp",
-          "thumb": "/media/real-estate/875a064faf_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Shree Radhe Krishna",
-          "postType": "Festival",
-          "caption": "નવા આરંભ માટે perfect home જોઈએ Radhe Krishna Sparsh માં દરેક ઈંટ વિશ્વાસ અને જીતની કથા કહે છે.",
           "client": null,
           "slides": null
         },
