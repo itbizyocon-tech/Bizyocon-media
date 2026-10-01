@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:42:01.151Z",
+  "generatedAt": "2026-10-01T08:42:12.868Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 218,
-      "imageCount": 117,
+      "count": 217,
+      "imageCount": 116,
       "videoCount": 101,
       "groups": [
         {
@@ -71,7 +71,7 @@
         },
         {
           "name": "Swastik Elenza",
-          "count": 17
+          "count": 16
         }
       ],
       "cover": "/media/real-estate/91d2b864d1_t.webp",
@@ -2915,20 +2915,6 @@
           "group": "Swastik Elenza",
           "postType": "Normal",
           "caption": "Step into a world where elegance greets you at the very first door...📍S.P.Ring Road, New Nikol,",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "ba1ba2f580",
-          "kind": "image",
-          "src": "/media/real-estate/ba1ba2f580.webp",
-          "thumb": "/media/real-estate/ba1ba2f580_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1440,
-          "group": "Swastik Elenza",
-          "postType": "Normal",
-          "caption": "Step into your private balcony for a breath of fresh air and a view that clears your mind...S.P",
           "client": null,
           "slides": null
         },
