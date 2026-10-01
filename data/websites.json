@@ -1,0 +1,218 @@
+[
+  {
+    "id": "hp-engineers",
+    "name": "H P Engineers",
+    "url": "https://hpengineers.co.in/",
+    "screenshot": "/media/websites/hp-engineers-shot.webp",
+    "description": "SMC & GRP panel tank manufacturer — water storage solutions.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "arvind-rubber",
+    "name": "Arvind Rubber",
+    "url": "https://www.arvindrubber.com/",
+    "screenshot": "/media/websites/arvind-rubber-shot.webp",
+    "description": "Industrial rubber roller manufacturer, supplier and exporter.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "bright-crane-equipment",
+    "name": "Bright Crane Equipment",
+    "url": "http://brightcraneequipment.com/",
+    "screenshot": "/media/websites/bright-crane-equipment-shot.webp",
+    "description": "Industrial cranes engineered for heavy-duty performance.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "ces-laser-machine",
+    "name": "CES Laser Machine",
+    "url": "http://ceslasermachine.com/",
+    "screenshot": "/media/websites/ces-laser-machine-shot.webp",
+    "description": "Fiber laser cutting, welding & marking machines.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "dolbyply",
+    "name": "Dolby Ply",
+    "url": "http://dolbyply.com/",
+    "screenshot": "/media/websites/dolbyply-shot.webp",
+    "description": "Plywood, doors and decorative surfaces since 1997.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "tifco",
+    "name": "Tifco",
+    "url": "http://tifco.in/",
+    "screenshot": "/media/websites/tifco-shot.webp",
+    "description": "Perfume brand — unisex fragrances and gift combos.",
+    "category": "ecommerce"
+  },
+  {
+    "id": "pretone",
+    "name": "Pretone Laminate",
+    "url": "http://pretone.in/",
+    "screenshot": "/media/websites/pretone-shot.webp",
+    "description": "High-pressure laminates for interiors and furniture.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "dadhival-galvanizing",
+    "name": "Dadhival Galvanizing",
+    "url": "https://dadhivalagalvanizing.com/",
+    "screenshot": "/media/websites/dadhival-galvanizing-shot.webp",
+    "description": "Hot-dip galvanizing plants, zinc kettles and pollution-control equipment.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "rootkraft",
+    "name": "Root Kraft",
+    "url": "https://www.rootkraft.com/",
+    "screenshot": "/media/websites/rootkraft-shot.webp",
+    "description": "Custom wooden decor — wall art, desk organisers and gifting.",
+    "category": "ecommerce"
+  },
+  {
+    "id": "theprojas",
+    "name": "Projas",
+    "url": "http://theprojas.com/",
+    "screenshot": "/media/websites/theprojas-shot.webp",
+    "description": "Ayurvedic ladoos and personalized functional nutrition.",
+    "category": "ecommerce"
+  },
+  {
+    "id": "premium-fragrance-uk",
+    "name": "The Premium Fragrance (UK)",
+    "url": "https://www.thepremiumfragrance.co.uk/",
+    "screenshot": "/media/websites/premium-fragrance-uk-shot.webp",
+    "description": "Designer-inspired perfumes, online store for the UK.",
+    "category": "ecommerce"
+  },
+  {
+    "id": "akshar-kutir",
+    "name": "Akshar Kutir",
+    "url": "https://www.aksharkutir.in/",
+    "screenshot": "/media/websites/akshar-kutir-shot.webp",
+    "description": "3 BHK exclusive villas in Bareja, Ahmedabad.",
+    "category": "real-estate"
+  },
+  {
+    "id": "origin-group",
+    "name": "Origin Group",
+    "url": "https://origingroup.in/",
+    "screenshot": "/media/websites/origin-group-shot.webp",
+    "description": "Design-led residences and retail destinations in Gandhinagar.",
+    "category": "real-estate"
+  },
+  {
+    "id": "divine-gandhinagar",
+    "name": "Divine Real Estate",
+    "url": "http://divinegandhinagar.com/",
+    "screenshot": "/media/websites/divine-gandhinagar-shot.webp",
+    "description": "Real estate and finance services in Gandhinagar.",
+    "category": "real-estate"
+  },
+  {
+    "id": "shree-vinayaka-realtors",
+    "name": "Shree Vinayakaa Realtors",
+    "url": "https://shreevinayakaarealtors.com/",
+    "screenshot": "/media/websites/shree-vinayaka-realtors-shot.webp",
+    "description": "Property buying, selling and rental consultancy.",
+    "category": "real-estate"
+  },
+  {
+    "id": "shiv-real-estate-gandhinagar",
+    "name": "Shiv Real Estate",
+    "url": "http://shivrealestategandhinagar.com/",
+    "screenshot": "/media/websites/shiv-real-estate-gandhinagar-shot.webp",
+    "description": "Houses, apartments and commercial properties in Gandhinagar.",
+    "category": "real-estate"
+  },
+  {
+    "id": "arvind-corrotech",
+    "name": "Arvind Corrotech",
+    "url": "http://arvindcorrotech.com/",
+    "screenshot": "/media/websites/arvind-corrotech-shot.webp",
+    "description": "Turnkey hot-dip galvanizing plants, exported worldwide.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "neerco",
+    "name": "Neerco",
+    "url": "http://neerco.in/",
+    "screenshot": "/media/websites/neerco-shot.webp",
+    "description": "GRP & SMC panel water tanks by HP Engineers.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "delta-industries",
+    "name": "Delta Industries",
+    "url": "https://www.deltaindustriesindia.com/",
+    "screenshot": "/media/websites/delta-industries-shot.webp",
+    "description": "Industrial air compressor manufacturer in Ahmedabad.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "mittal-blowers",
+    "name": "Mittal Blowers",
+    "url": "http://mittalblowers.com/",
+    "screenshot": "/media/websites/mittal-blowers-shot.webp",
+    "description": "Centrifugal fans, exhausters and high-pressure blowers.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "knapp-test-kit",
+    "name": "Knapp Test Kit",
+    "url": "https://knapptestkit.com/",
+    "screenshot": "/media/websites/knapp-test-kit-shot.webp",
+    "description": "Knapp Test Kit manufacturer for pharmaceutical inspection.",
+    "category": "other"
+  },
+  {
+    "id": "mahant-pharma",
+    "name": "Mahant Pharma Advances",
+    "url": "https://mahantpharmaadvances.com/",
+    "screenshot": "/media/websites/mahant-pharma-shot.webp",
+    "description": "Certified inspection kits — Knapp, CCIT and visual inspection.",
+    "category": "other"
+  },
+  {
+    "id": "roamer-tribe",
+    "name": "RoamEra Tribe",
+    "url": "https://www.roameratribe.com/",
+    "screenshot": "/media/websites/roamer-tribe-shot.webp",
+    "description": "Premium safaris, beach escapes and curated adventure travel.",
+    "category": "other"
+  },
+  {
+    "id": "prime-solar",
+    "name": "Prime Solar Australia",
+    "url": "https://primesolar.au/",
+    "screenshot": "/media/websites/prime-solar-shot.webp",
+    "description": "Solar panel, battery and inverter solutions for Australian homes.",
+    "category": "other"
+  },
+  {
+    "id": "cetron-gears",
+    "name": "Cetron Gears",
+    "url": "https://cetrongears.com/",
+    "screenshot": "/media/websites/cetron-gears-shot.webp",
+    "description": "Worm, helical and planetary industrial gearboxes.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "hexoto-india",
+    "name": "Hexoto Industries",
+    "url": "https://hexotoindia.com/",
+    "screenshot": "/media/websites/hexoto-india-shot.webp",
+    "description": "Rotary joints, rotary unions and mechanical seals.",
+    "category": "manufacturing"
+  },
+  {
+    "id": "the-blinds-factory",
+    "name": "The Blinds Factory",
+    "url": "http://theblindsfactory.in/",
+    "screenshot": "/media/websites/the-blinds-factory-shot.webp",
+    "description": "Manufacturer and supplier of window blinds and shades.",
+    "category": "manufacturing"
+  }
+]
