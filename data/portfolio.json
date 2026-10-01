@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:25:06.528Z",
+  "generatedAt": "2026-10-01T09:27:59.044Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -7011,6 +7011,17 @@
           "slides": null
         }
       ]
+    },
+    {
+      "slug": "banners",
+      "title": "Banners",
+      "blurb": "Wide-format campaign banners.",
+      "count": 0,
+      "imageCount": 0,
+      "videoCount": 0,
+      "groups": [],
+      "cover": "",
+      "items": []
     }
   ]
 }
