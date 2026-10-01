@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:41:38.986Z",
+  "generatedAt": "2026-10-01T08:41:50.629Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 221,
-      "imageCount": 120,
+      "count": 220,
+      "imageCount": 119,
       "videoCount": 101,
       "groups": [
         {
@@ -31,7 +31,7 @@
         },
         {
           "name": "Concus Properties",
-          "count": 16
+          "count": 15
         },
         {
           "name": "Drone Shoot",
@@ -577,20 +577,6 @@
           "group": "Concus Properties",
           "postType": "Normal",
           "caption": "તમે સપનાનું ઘર પસંદ કરો, એ ઘર કાયદેસર રીતે સુરક્ષિત છે કે નહીં તેની જવાબદારી અમારી—કારણ કે તમારો",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "7ea57d0c23",
-          "kind": "image",
-          "src": "/media/real-estate/7ea57d0c23.webp",
-          "thumb": "/media/real-estate/7ea57d0c23_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1439,
-          "group": "Concus Properties",
-          "postType": "Normal",
-          "caption": "રહેવા માટે ઘર. કમાવા માટે દુકાન. એક જ સરનામે 🏪Pushpam Flora mein sirf 8 premium retail shops",
           "client": null,
           "slides": null
         },
