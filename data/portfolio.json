@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:56:51.010Z",
+  "generatedAt": "2026-10-01T08:56:58.842Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -6026,8 +6026,8 @@
       "slug": "ecommerce",
       "title": "E-Commerce",
       "blurb": "Product storytelling & scroll-stopping creatives for D2C brands.",
-      "count": 32,
-      "imageCount": 32,
+      "count": 31,
+      "imageCount": 31,
       "videoCount": 0,
       "groups": [
         {
@@ -6044,7 +6044,7 @@
         },
         {
           "name": "Tifco",
-          "count": 6
+          "count": 5
         }
       ],
       "cover": "/media/ecommerce/9b718816a1_t.webp",
@@ -6424,20 +6424,6 @@
           "group": "Tifco",
           "postType": "Normal",
           "caption": "Dive into the magnetic freshness of TIFCO Ocean a refreshing blend of vibrant citrus, warm ginge",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "f419a651e5",
-          "kind": "image",
-          "src": "/media/ecommerce/f419a651e5.webp",
-          "thumb": "/media/ecommerce/f419a651e5_t.webp",
-          "poster": null,
-          "width": 1170,
-          "height": 1463,
-          "group": "Tifco",
-          "postType": "Normal",
-          "caption": "Elegance begins with the first spray. 🤍✨Soft floral notes wrapped in timeless sophistication, S",
           "client": null,
           "slides": null
         },
