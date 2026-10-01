@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:42:18.190Z",
+  "generatedAt": "2026-10-01T08:42:28.876Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 216,
-      "imageCount": 115,
+      "count": 215,
+      "imageCount": 114,
       "videoCount": 101,
       "groups": [
         {
@@ -71,7 +71,7 @@
         },
         {
           "name": "Swastik Elenza",
-          "count": 15
+          "count": 14
         }
       ],
       "cover": "/media/real-estate/91d2b864d1_t.webp",
@@ -2985,20 +2985,6 @@
           "group": "Swastik Elenza",
           "postType": "Normal",
           "caption": "તમારી સફળતા અને લાઇફસ્ટાઇલનું સૌથી ભવ્ય ઉજવણી હવે Swastik Elanza માં. ✨..📍S.P.Ring Road, New Ni",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "86eb4f8231",
-          "kind": "image",
-          "src": "/media/real-estate/86eb4f8231.webp",
-          "thumb": "/media/real-estate/86eb4f8231_t.webp",
-          "poster": null,
-          "width": 1170,
-          "height": 1463,
-          "group": "Swastik Elenza",
-          "postType": "Normal",
-          "caption": "દરેક ખૂણાનું સ્માર્ટ પ્લાનિંગ, જેથી તમને મળે ઓછા બજેટમાં વધુ સુવિધા...S.P.Ring Road, New Nikol,",
           "client": null,
           "slides": null
         },
