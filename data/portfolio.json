@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T08:59:18.882Z",
+  "generatedAt": "2026-10-01T09:02:27.229Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -6026,10 +6026,14 @@
       "slug": "ecommerce",
       "title": "E-Commerce",
       "blurb": "Product storytelling & scroll-stopping creatives for D2C brands.",
-      "count": 35,
-      "imageCount": 35,
+      "count": 36,
+      "imageCount": 36,
       "videoCount": 0,
       "groups": [
+        {
+          "name": "Aarwa",
+          "count": 6
+        },
         {
           "name": "Tifco",
           "count": 10
@@ -6039,16 +6043,26 @@
           "count": 5
         },
         {
-          "name": "Aarwa",
-          "count": 5
-        },
-        {
           "name": "The Premium Fragrance",
           "count": 15
         }
       ],
       "cover": "/media/ecommerce/9b718816a1_t.webp",
       "items": [
+        {
+          "id": "571b93406c",
+          "kind": "image",
+          "src": "/media/ecommerce/571b93406c.webp",
+          "thumb": "/media/ecommerce/571b93406c_t.webp",
+          "poster": null,
+          "width": 1638,
+          "height": 2048,
+          "group": "Aarwa",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "e6ec45870e",
           "kind": "image",
