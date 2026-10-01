@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T09:49:08.811Z",
+  "generatedAt": "2026-10-01T10:22:34.893Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 201,
+      "count": 200,
       "imageCount": 100,
-      "videoCount": 101,
+      "videoCount": 100,
       "groups": [
         {
           "name": "Origin",
@@ -39,7 +39,7 @@
         },
         {
           "name": "Drone Shoot",
-          "count": 18
+          "count": 17
         },
         {
           "name": "Festival",
@@ -703,20 +703,6 @@
           "group": "Drone Shoot",
           "postType": null,
           "caption": "OriginGroup_Drone Video",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "e1a099a32b",
-          "kind": "video",
-          "src": "/media/real-estate/e1a099a32b.mp4",
-          "thumb": null,
-          "poster": "/media/real-estate/e1a099a32b_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Drone Shoot",
-          "postType": null,
-          "caption": "OriginGroup_May_Drone_Reel.final",
           "client": null,
           "slides": null
         },
