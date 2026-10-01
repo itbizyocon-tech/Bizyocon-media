@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T09:47:37.365Z",
+  "generatedAt": "2026-10-01T09:47:44.853Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 205,
-      "imageCount": 104,
+      "count": 204,
+      "imageCount": 103,
       "videoCount": 101,
       "groups": [
         {
@@ -51,7 +51,7 @@
         },
         {
           "name": "Origin",
-          "count": 14
+          "count": 13
         },
         {
           "name": "Pushpam Flora",
@@ -1221,20 +1221,6 @@
           "group": "Origin",
           "postType": "Festival",
           "caption": "_2238605693818576528_n",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "149686b343",
-          "kind": "image",
-          "src": "/media/real-estate/149686b343.webp",
-          "thumb": "/media/real-estate/149686b343_t.webp",
-          "poster": null,
-          "width": 1280,
-          "height": 1600,
-          "group": "Origin",
-          "postType": "Festival",
-          "caption": "_6863201689279059681_n",
           "client": null,
           "slides": null
         },
