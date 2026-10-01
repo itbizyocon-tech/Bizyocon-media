@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-01T08:39:28.871Z",
+  "generatedAt": "2026-10-01T08:39:56.595Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 231,
-      "imageCount": 130,
+      "count": 230,
+      "imageCount": 129,
       "videoCount": 101,
       "groups": [
         {
@@ -63,7 +63,7 @@
         },
         {
           "name": "SB Cristoria",
-          "count": 13
+          "count": 12
         },
         {
           "name": "Shree Radhe Krishna",
@@ -2517,20 +2517,6 @@
           "kind": "image",
           "src": "/media/real-estate/34bc97c149.webp",
           "thumb": "/media/real-estate/34bc97c149_t.webp",
-          "poster": null,
-          "width": 1201,
-          "height": 1501,
-          "group": "SB Cristoria",
-          "postType": "Normal",
-          "caption": "A home so big, you might actually lose your keys for a few days. 🗝️🕵️_♂️_Why squeeze your life",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "5ceee2556b",
-          "kind": "image",
-          "src": "/media/real-estate/5ceee2556b.webp",
-          "thumb": "/media/real-estate/5ceee2556b_t.webp",
           "poster": null,
           "width": 1201,
           "height": 1501,
