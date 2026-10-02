@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:03:27.825Z",
+  "generatedAt": "2026-10-02T07:03:34.644Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 162,
+      "count": 161,
       "imageCount": 111,
-      "videoCount": 51,
+      "videoCount": 50,
       "groups": [
         {
           "name": "HP",
@@ -2846,7 +2846,7 @@
         },
         {
           "name": "festival Reels",
-          "count": 3
+          "count": 2
         },
         {
           "name": "Influencer",
@@ -3832,20 +3832,6 @@
           "group": "CES Laser",
           "postType": "Normal",
           "caption": "Turn raw metal into refined excellence. With CES Laser Technology, every cut speaks performance,",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "d235773840",
-          "kind": "video",
-          "src": "/media/manufacturing/d235773840.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/d235773840_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "festival Reels",
-          "postType": null,
-          "caption": "HP Engineer - Holi",
           "client": null,
           "slides": null
         },
