@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T10:04:56.818Z",
+  "generatedAt": "2026-10-02T10:05:02.092Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 196,
+      "count": 195,
       "imageCount": 96,
-      "videoCount": 100,
+      "videoCount": 99,
       "groups": [
         {
           "name": "Concus Properties",
@@ -47,7 +47,7 @@
         },
         {
           "name": "Influencer",
-          "count": 6
+          "count": 5
         },
         {
           "name": "location",
@@ -1117,20 +1117,6 @@
           "group": "Festival",
           "postType": null,
           "caption": "Swastik Elenza holi",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "5bda161361",
-          "kind": "video",
-          "src": "/media/real-estate/5bda161361.mp4",
-          "thumb": null,
-          "poster": "/media/real-estate/5bda161361_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Influencer",
-          "postType": null,
-          "caption": "Concus UGC 3",
           "client": null,
           "slides": null
         },
