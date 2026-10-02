@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:04:10.756Z",
+  "generatedAt": "2026-10-02T07:04:16.437Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 164,
+      "count": 163,
       "imageCount": 111,
-      "videoCount": 53,
+      "videoCount": 52,
       "groups": [
         {
           "name": "HP",
@@ -2862,7 +2862,7 @@
         },
         {
           "name": "Regular post",
-          "count": 22
+          "count": 21
         },
         {
           "name": "Shoot",
@@ -4650,20 +4650,6 @@
           "group": "Regular post",
           "postType": null,
           "caption": "Axoli Tiles",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "8077336bde",
-          "kind": "video",
-          "src": "/media/manufacturing/8077336bde.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/8077336bde_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Regular post",
-          "postType": null,
-          "caption": "HP Engineers_Feb_Reel 1",
           "client": null,
           "slides": null
         },
