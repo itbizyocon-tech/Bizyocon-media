@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:20:21.813Z",
+  "generatedAt": "2026-10-02T07:20:21.682Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,10 +2816,14 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 166,
+      "count": 168,
       "imageCount": 111,
-      "videoCount": 55,
+      "videoCount": 57,
       "groups": [
+        {
+          "name": "Panara",
+          "count": 12
+        },
         {
           "name": "Mital Blowers",
           "count": 25
@@ -2857,20 +2861,32 @@
           "count": 1
         },
         {
-          "name": "Panara",
-          "count": 11
-        },
-        {
           "name": "Regular post",
           "count": 19
         },
         {
           "name": "Shoot",
-          "count": 18
+          "count": 19
         }
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
       "items": [
+        {
+          "id": "d82bd5a0c7",
+          "kind": "video",
+          "src": null,
+          "thumb": null,
+          "poster": null,
+          "width": null,
+          "height": null,
+          "group": "Panara",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null,
+          "videoUrl": "https://www.facebook.com/reel/1512363740624753",
+          "videoProvider": "facebook"
+        },
         {
           "id": "0996ac6c50",
           "kind": "video",
@@ -5166,6 +5182,20 @@
           "group": "Shoot",
           "postType": null,
           "caption": "Irrigation Project",
+          "client": null,
+          "slides": null
+        },
+        {
+          "id": "8288867bda",
+          "kind": "video",
+          "src": "/media/manufacturing/8288867bda.mp4",
+          "thumb": null,
+          "poster": "/media/manufacturing/8288867bda_p.webp",
+          "width": 506,
+          "height": 900,
+          "group": "Shoot",
+          "postType": null,
+          "caption": "Panara expo",
           "client": null,
           "slides": null
         },
