@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:25:15.664Z",
+  "generatedAt": "2026-10-02T07:25:27.913Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,13 +2816,13 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 182,
+      "count": 183,
       "imageCount": 111,
-      "videoCount": 71,
+      "videoCount": 72,
       "groups": [
         {
           "name": "Khodiyar Industries",
-          "count": 10
+          "count": 11
         },
         {
           "name": "CES Laser",
@@ -2871,6 +2871,22 @@
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
       "items": [
+        {
+          "id": "c4b918b5bf",
+          "kind": "video",
+          "src": null,
+          "thumb": null,
+          "poster": null,
+          "width": null,
+          "height": null,
+          "group": "Khodiyar Industries",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null,
+          "videoUrl": "https://www.facebook.com/reel/954534963792004",
+          "videoProvider": "facebook"
+        },
         {
           "id": "43f3430eba",
           "kind": "video",
