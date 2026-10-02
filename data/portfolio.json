@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:19:17.979Z",
+  "generatedAt": "2026-10-02T07:20:21.813Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 167,
+      "count": 166,
       "imageCount": 111,
-      "videoCount": 56,
+      "videoCount": 55,
       "groups": [
         {
           "name": "Mital Blowers",
@@ -2866,7 +2866,7 @@
         },
         {
           "name": "Shoot",
-          "count": 19
+          "count": 18
         }
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
@@ -5166,20 +5166,6 @@
           "group": "Shoot",
           "postType": null,
           "caption": "Irrigation Project",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "8288867bda",
-          "kind": "video",
-          "src": "/media/manufacturing/8288867bda.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/8288867bda_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Shoot",
-          "postType": null,
-          "caption": "Panara expo",
           "client": null,
           "slides": null
         },
