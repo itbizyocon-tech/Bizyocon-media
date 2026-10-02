@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:01:45.411Z",
+  "generatedAt": "2026-10-02T07:02:14.472Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 162,
+      "count": 161,
       "imageCount": 111,
-      "videoCount": 51,
+      "videoCount": 50,
       "groups": [
         {
           "name": "Bright Equipment",
@@ -2866,7 +2866,7 @@
         },
         {
           "name": "Shoot",
-          "count": 20
+          "count": 19
         }
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
@@ -4978,20 +4978,6 @@
           "group": "Shoot",
           "postType": null,
           "caption": "flexo printing rollers india, printing rollers india_720p",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "ac15eddf46",
-          "kind": "video",
-          "src": "/media/manufacturing/ac15eddf46.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/ac15eddf46_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Shoot",
-          "postType": null,
-          "caption": "FLORENCE NURSES ACADEMY",
           "client": null,
           "slides": null
         },
