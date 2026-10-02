@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T10:05:11.237Z",
+  "generatedAt": "2026-10-02T10:05:15.522Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 196,
+      "count": 195,
       "imageCount": 96,
-      "videoCount": 100,
+      "videoCount": 99,
       "groups": [
         {
           "name": "Concus Properties",
@@ -59,7 +59,7 @@
         },
         {
           "name": "Regular Post",
-          "count": 51
+          "count": 50
         },
         {
           "name": "Sample House",
@@ -1721,20 +1721,6 @@
           "group": "Regular Post",
           "postType": null,
           "caption": "anushthan2",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "408b66c5fc",
-          "kind": "video",
-          "src": "/media/real-estate/408b66c5fc.mp4",
-          "thumb": null,
-          "poster": "/media/real-estate/408b66c5fc_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Regular Post",
-          "postType": null,
-          "caption": "Concus properties and finance_Feb_Reel 2",
           "client": null,
           "slides": null
         },
