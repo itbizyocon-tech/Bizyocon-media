@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T04:44:22.715Z",
+  "generatedAt": "2026-10-02T04:44:34.930Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -6995,17 +6995,31 @@
       "slug": "ads-creative",
       "title": "Ads Creative",
       "blurb": "Standalone ad creatives.",
-      "count": 14,
-      "imageCount": 14,
+      "count": 15,
+      "imageCount": 15,
       "videoCount": 0,
       "groups": [
         {
           "name": "All",
-          "count": 14
+          "count": 15
         }
       ],
-      "cover": "/media/ads-creative/506872b75d_t.webp",
+      "cover": "/media/ads-creative/a7273275b7_t.webp",
       "items": [
+        {
+          "id": "a7273275b7",
+          "kind": "image",
+          "src": "/media/ads-creative/a7273275b7.webp",
+          "thumb": "/media/ads-creative/a7273275b7_t.webp",
+          "poster": null,
+          "width": 2000,
+          "height": 2000,
+          "group": "All",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "506872b75d",
           "kind": "image",
