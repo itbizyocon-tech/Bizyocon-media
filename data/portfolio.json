@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:19:00.356Z",
+  "generatedAt": "2026-10-02T07:19:08.570Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 167,
+      "count": 166,
       "imageCount": 111,
-      "videoCount": 56,
+      "videoCount": 55,
       "groups": [
         {
           "name": "Mital Blowers",
@@ -2862,7 +2862,7 @@
         },
         {
           "name": "Regular post",
-          "count": 20
+          "count": 19
         },
         {
           "name": "Shoot",
@@ -4814,20 +4814,6 @@
           "group": "Regular post",
           "postType": null,
           "caption": "Mahisagar Solar 03",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "fd60603eb0",
-          "kind": "video",
-          "src": "/media/manufacturing/fd60603eb0.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/fd60603eb0_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Regular post",
-          "postType": null,
-          "caption": "MittalBlowers_July26_01",
           "client": null,
           "slides": null
         },
