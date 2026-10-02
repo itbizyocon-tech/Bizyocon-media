@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T10:20:59.570Z",
+  "generatedAt": "2026-10-02T10:21:19.740Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 201,
+      "count": 200,
       "imageCount": 96,
-      "videoCount": 105,
+      "videoCount": 104,
       "groups": [
         {
           "name": "Vision Ventilla",
@@ -39,7 +39,7 @@
         },
         {
           "name": "Drone Shoot",
-          "count": 13
+          "count": 12
         },
         {
           "name": "Festival",
@@ -923,20 +923,6 @@
           "group": "Drone Shoot",
           "postType": null,
           "caption": "Irrigation_Project",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "a937a8a377",
-          "kind": "video",
-          "src": "/media/real-estate/a937a8a377.mp4",
-          "thumb": null,
-          "poster": "/media/real-estate/a937a8a377_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Drone Shoot",
-          "postType": null,
-          "caption": "Rudra ad",
           "client": null,
           "slides": null
         },
