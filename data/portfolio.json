@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-02T04:39:30.046Z",
+  "generatedAt": "2026-10-02T04:40:03.214Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 196,
-      "imageCount": 96,
+      "count": 195,
+      "imageCount": 95,
       "videoCount": 100,
       "groups": [
         {
@@ -67,7 +67,7 @@
         },
         {
           "name": "SB Cristoria",
-          "count": 9
+          "count": 8
         },
         {
           "name": "Swastik Elenza",
@@ -2289,20 +2289,6 @@
           "group": "SB Cristoria",
           "postType": "Normal",
           "caption": "A peaceful corner designed for those who’ve built our world our senior citizens. A senior citiz",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "4a484c8dd2",
-          "kind": "image",
-          "src": "/media/real-estate/4a484c8dd2.webp",
-          "thumb": "/media/real-estate/4a484c8dd2_t.webp",
-          "poster": null,
-          "width": 1201,
-          "height": 1501,
-          "group": "SB Cristoria",
-          "postType": "Normal",
-          "caption": "Architecture that breathes. Light that inspires. ☀️🌿 Home isn’t just a place to unpack; its wh",
           "client": null,
           "slides": null
         },
