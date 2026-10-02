@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T06:57:46.842Z",
+  "generatedAt": "2026-10-02T06:57:57.575Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,13 +2816,13 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 163,
+      "count": 164,
       "imageCount": 111,
-      "videoCount": 52,
+      "videoCount": 53,
       "groups": [
         {
           "name": "Bright Equipment",
-          "count": 17
+          "count": 18
         },
         {
           "name": "Khodiyar Industries",
@@ -2871,6 +2871,22 @@
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
       "items": [
+        {
+          "id": "9426476a52",
+          "kind": "video",
+          "src": null,
+          "thumb": null,
+          "poster": null,
+          "width": null,
+          "height": null,
+          "group": "Bright Equipment",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null,
+          "videoUrl": "https://www.instagram.com/reel/DRvo-83CeoL/",
+          "videoProvider": "instagram"
+        },
         {
           "id": "08e39eab76",
           "kind": "video",
