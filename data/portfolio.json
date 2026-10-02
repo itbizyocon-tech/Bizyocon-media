@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:00:48.978Z",
+  "generatedAt": "2026-10-02T07:01:29.156Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 164,
+      "count": 163,
       "imageCount": 111,
-      "videoCount": 53,
+      "videoCount": 52,
       "groups": [
         {
           "name": "Bright Equipment",
@@ -2862,7 +2862,7 @@
         },
         {
           "name": "Regular post",
-          "count": 24
+          "count": 23
         },
         {
           "name": "Shoot",
@@ -4600,20 +4600,6 @@
           "group": "Regular post",
           "postType": null,
           "caption": "Axoli Tiles",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "8db26e314f",
-          "kind": "video",
-          "src": "/media/manufacturing/8db26e314f.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/8db26e314f_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Regular post",
-          "postType": null,
-          "caption": "Florence nures ac01",
           "client": null,
           "slides": null
         },
