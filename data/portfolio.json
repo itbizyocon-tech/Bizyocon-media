@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:21:16.968Z",
+  "generatedAt": "2026-10-02T07:21:47.403Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,10 +2816,14 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 171,
+      "count": 172,
       "imageCount": 111,
-      "videoCount": 60,
+      "videoCount": 61,
       "groups": [
+        {
+          "name": "Arlon",
+          "count": 20
+        },
         {
           "name": "Panara",
           "count": 16
@@ -2845,10 +2849,6 @@
           "count": 6
         },
         {
-          "name": "Arlon",
-          "count": 19
-        },
-        {
           "name": "CES Laser",
           "count": 15
         },
@@ -2871,6 +2871,22 @@
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
       "items": [
+        {
+          "id": "6ea25ef44e",
+          "kind": "video",
+          "src": null,
+          "thumb": null,
+          "poster": null,
+          "width": null,
+          "height": null,
+          "group": "Arlon",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null,
+          "videoUrl": "https://www.facebook.com/reel/2071293594264193",
+          "videoProvider": "facebook"
+        },
         {
           "id": "cbc9588d56",
           "kind": "video",
