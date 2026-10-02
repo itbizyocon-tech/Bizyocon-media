@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T04:22:36.355Z",
+  "generatedAt": "2026-10-02T04:25:34.413Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -7018,6 +7018,17 @@
           "slides": null
         }
       ]
+    },
+    {
+      "slug": "ads-creative",
+      "title": "Ads Creative",
+      "blurb": "Standalone ad creatives.",
+      "count": 0,
+      "imageCount": 0,
+      "videoCount": 0,
+      "groups": [],
+      "cover": "",
+      "items": []
     }
   ]
 }
