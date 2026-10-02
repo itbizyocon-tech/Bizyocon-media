@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:24:04.344Z",
+  "generatedAt": "2026-10-02T07:25:02.069Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 181,
+      "count": 180,
       "imageCount": 111,
-      "videoCount": 70,
+      "videoCount": 69,
       "groups": [
         {
           "name": "CES Laser",
@@ -2862,7 +2862,7 @@
         },
         {
           "name": "Regular post",
-          "count": 19
+          "count": 18
         },
         {
           "name": "Shoot",
@@ -5000,20 +5000,6 @@
           "group": "Regular post",
           "postType": null,
           "caption": "Jindal Marking Video",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "eb6c2a0b66",
-          "kind": "video",
-          "src": "/media/manufacturing/eb6c2a0b66.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/eb6c2a0b66_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Regular post",
-          "postType": null,
-          "caption": "Khodiyar Roto_June_Reel 2",
           "client": null,
           "slides": null
         },
