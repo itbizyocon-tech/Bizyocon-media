@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:03:34.644Z",
+  "generatedAt": "2026-10-02T07:03:50.126Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,13 +2816,13 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 161,
+      "count": 162,
       "imageCount": 111,
-      "videoCount": 50,
+      "videoCount": 51,
       "groups": [
         {
           "name": "HP",
-          "count": 19
+          "count": 20
         },
         {
           "name": "Bright Equipment",
@@ -2871,6 +2871,22 @@
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
       "items": [
+        {
+          "id": "fd37e1ab4a",
+          "kind": "video",
+          "src": null,
+          "thumb": null,
+          "poster": null,
+          "width": null,
+          "height": null,
+          "group": "HP",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null,
+          "videoUrl": "https://www.facebook.com/reel/2246882309424386",
+          "videoProvider": "facebook"
+        },
         {
           "id": "d9e7442d8a",
           "kind": "video",
