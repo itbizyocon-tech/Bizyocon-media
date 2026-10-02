@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T06:57:24.626Z",
+  "generatedAt": "2026-10-02T06:57:32.730Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 163,
+      "count": 162,
       "imageCount": 111,
-      "videoCount": 52,
+      "videoCount": 51,
       "groups": [
         {
           "name": "Bright Equipment",
@@ -2850,7 +2850,7 @@
         },
         {
           "name": "Influencer",
-          "count": 2
+          "count": 1
         },
         {
           "name": "Mital Blowers",
@@ -4076,20 +4076,6 @@
           "group": "HP",
           "postType": "Normal",
           "caption": "Trusted by India’s biggest industries for high-scale, high-pressure environments...📞 Contact Us",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "7327be9419",
-          "kind": "video",
-          "src": "/media/manufacturing/7327be9419.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/7327be9419_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Influencer",
-          "postType": null,
-          "caption": "Bright Crane",
           "client": null,
           "slides": null
         },
