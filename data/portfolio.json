@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-02T04:22:27.145Z",
+  "generatedAt": "2026-10-02T04:22:36.355Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 199,
-      "imageCount": 99,
+      "count": 198,
+      "imageCount": 98,
       "videoCount": 100,
       "groups": [
         {
-          "name": "Shree Radhe Krishna",
-          "count": 18
-        },
-        {
           "name": "Origin",
           "count": 12
+        },
+        {
+          "name": "Shree Radhe Krishna",
+          "count": 17
         },
         {
           "name": "Vision Ventilla",
@@ -74,22 +74,8 @@
           "count": 13
         }
       ],
-      "cover": "/media/real-estate/c79a95263e_t.webp",
+      "cover": "/media/real-estate/91d2b864d1_t.webp",
       "items": [
-        {
-          "id": "c79a95263e",
-          "kind": "image",
-          "src": "/media/real-estate/c79a95263e.webp",
-          "thumb": "/media/real-estate/c79a95263e_t.webp",
-          "poster": null,
-          "width": 2000,
-          "height": 2000,
-          "group": "Shree Radhe Krishna",
-          "postType": null,
-          "caption": null,
-          "client": null,
-          "slides": null
-        },
         {
           "id": "4f74575cd7",
           "kind": "video",
