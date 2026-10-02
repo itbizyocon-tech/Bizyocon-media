@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:21:04.289Z",
+  "generatedAt": "2026-10-02T07:21:16.968Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,13 +2816,13 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 170,
+      "count": 171,
       "imageCount": 111,
-      "videoCount": 59,
+      "videoCount": 60,
       "groups": [
         {
           "name": "Panara",
-          "count": 15
+          "count": 16
         },
         {
           "name": "Mital Blowers",
@@ -2871,6 +2871,22 @@
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
       "items": [
+        {
+          "id": "cbc9588d56",
+          "kind": "video",
+          "src": null,
+          "thumb": null,
+          "poster": null,
+          "width": null,
+          "height": null,
+          "group": "Panara",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null,
+          "videoUrl": "https://www.facebook.com/reel/1274367204825356",
+          "videoProvider": "facebook"
+        },
         {
           "id": "ddbd90d826",
           "kind": "video",
