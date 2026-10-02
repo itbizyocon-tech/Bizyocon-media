@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:20:21.682Z",
+  "generatedAt": "2026-10-02T07:20:32.291Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 168,
+      "count": 167,
       "imageCount": 111,
-      "videoCount": 57,
+      "videoCount": 56,
       "groups": [
         {
           "name": "Panara",
@@ -2866,13 +2866,13 @@
         },
         {
           "name": "Shoot",
-          "count": 19
+          "count": 18
         }
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
       "items": [
         {
-          "id": "d82bd5a0c7",
+          "id": "bbc4731ffe",
           "kind": "video",
           "src": null,
           "thumb": null,
@@ -2884,7 +2884,7 @@
           "caption": null,
           "client": null,
           "slides": null,
-          "videoUrl": "https://www.facebook.com/reel/1512363740624753",
+          "videoUrl": "https://www.facebook.com/reel/1571207867869956",
           "videoProvider": "facebook"
         },
         {
@@ -5182,20 +5182,6 @@
           "group": "Shoot",
           "postType": null,
           "caption": "Irrigation Project",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "8288867bda",
-          "kind": "video",
-          "src": "/media/manufacturing/8288867bda.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/8288867bda_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Shoot",
-          "postType": null,
-          "caption": "Panara expo",
           "client": null,
           "slides": null
         },
