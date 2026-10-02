@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-02T04:40:03.214Z",
+  "generatedAt": "2026-10-02T04:40:10.010Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 195,
-      "imageCount": 95,
+      "count": 194,
+      "imageCount": 94,
       "videoCount": 100,
       "groups": [
         {
@@ -71,7 +71,7 @@
         },
         {
           "name": "Swastik Elenza",
-          "count": 13
+          "count": 12
         }
       ],
       "cover": "/media/real-estate/91d2b864d1_t.webp",
@@ -2681,20 +2681,6 @@
           "group": "Swastik Elenza",
           "postType": "Normal",
           "caption": "જ્યાં આધુનિક ડિઝાઇન અને ઉત્કૃષ્ટ કારીગરી એકસાથે મળીને તમારા સપનાનો ખૂણો બનાવે છે...📍S.P.Ring Ro",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "df5a15586d",
-          "kind": "image",
-          "src": "/media/real-estate/df5a15586d.webp",
-          "thumb": "/media/real-estate/df5a15586d_t.webp",
-          "poster": null,
-          "width": 1055,
-          "height": 1318,
-          "group": "Swastik Elenza",
-          "postType": "Normal",
-          "caption": "તમારા આખા પરિવાર સાથે બેસીને વાતો કરવા માટે 160” × 100” નો મોટો અને સુંદર લિવિંગ રૂમ, જ્યાં દર",
           "client": null,
           "slides": null
         },
