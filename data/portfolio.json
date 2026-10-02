@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T06:30:32.955Z",
+  "generatedAt": "2026-10-02T06:38:31.039Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 196,
+      "count": 195,
       "imageCount": 96,
-      "videoCount": 100,
+      "videoCount": 99,
       "groups": [
         {
           "name": "Origin",
@@ -39,7 +39,7 @@
         },
         {
           "name": "Drone Shoot",
-          "count": 15
+          "count": 14
         },
         {
           "name": "Festival",
@@ -763,20 +763,6 @@
           "group": "Drone Shoot",
           "postType": null,
           "caption": "Irrigation_Project",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "43c87ac869",
-          "kind": "video",
-          "src": "/media/real-estate/43c87ac869.mp4",
-          "thumb": null,
-          "poster": "/media/real-estate/43c87ac869_p.webp",
-          "width": 900,
-          "height": 506,
-          "group": "Drone Shoot",
-          "postType": null,
-          "caption": "OriginGroup_Drone Video",
           "client": null,
           "slides": null
         },
