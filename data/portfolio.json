@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:22:37.116Z",
+  "generatedAt": "2026-10-02T07:22:58.778Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,13 +2816,13 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 175,
+      "count": 176,
       "imageCount": 111,
-      "videoCount": 64,
+      "videoCount": 65,
       "groups": [
         {
           "name": "Arlon",
-          "count": 23
+          "count": 24
         },
         {
           "name": "Panara",
@@ -2871,6 +2871,22 @@
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
       "items": [
+        {
+          "id": "7d76e9fac1",
+          "kind": "video",
+          "src": null,
+          "thumb": null,
+          "poster": null,
+          "width": null,
+          "height": null,
+          "group": "Arlon",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null,
+          "videoUrl": "https://www.facebook.com/reel/1397217992443290",
+          "videoProvider": "facebook"
+        },
         {
           "id": "f55b74c615",
           "kind": "video",
