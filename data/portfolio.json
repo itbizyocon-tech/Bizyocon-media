@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:01:29.156Z",
+  "generatedAt": "2026-10-02T07:01:45.411Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 163,
+      "count": 162,
       "imageCount": 111,
-      "videoCount": 52,
+      "videoCount": 51,
       "groups": [
         {
           "name": "Bright Equipment",
@@ -2862,7 +2862,7 @@
         },
         {
           "name": "Regular post",
-          "count": 23
+          "count": 22
         },
         {
           "name": "Shoot",
@@ -4600,20 +4600,6 @@
           "group": "Regular post",
           "postType": null,
           "caption": "Axoli Tiles",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "7f381aa5ce",
-          "kind": "video",
-          "src": "/media/manufacturing/7f381aa5ce.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/7f381aa5ce_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Regular post",
-          "postType": null,
-          "caption": "Florence Nurses",
           "client": null,
           "slides": null
         },
