@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T10:09:47.911Z",
+  "generatedAt": "2026-10-02T10:20:59.570Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 202,
+      "count": 201,
       "imageCount": 96,
-      "videoCount": 106,
+      "videoCount": 105,
       "groups": [
         {
           "name": "Vision Ventilla",
@@ -39,7 +39,7 @@
         },
         {
           "name": "Drone Shoot",
-          "count": 14
+          "count": 13
         },
         {
           "name": "Festival",
@@ -923,20 +923,6 @@
           "group": "Drone Shoot",
           "postType": null,
           "caption": "Irrigation_Project",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "6c7a719da6",
-          "kind": "video",
-          "src": "/media/real-estate/6c7a719da6.mp4",
-          "thumb": null,
-          "poster": "/media/real-estate/6c7a719da6_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Drone Shoot",
-          "postType": null,
-          "caption": "OriginGroup_VO_Reel",
           "client": null,
           "slides": null
         },
