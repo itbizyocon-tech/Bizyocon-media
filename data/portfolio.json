@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:21:19.740Z",
+  "generatedAt": "2026-10-02T10:21:31.559Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -6909,17 +6909,13 @@
       "slug": "cgi",
       "title": "CGI Films",
       "blurb": "High-impact CGI reveals engineered to go viral.",
-      "count": 3,
+      "count": 2,
       "imageCount": 0,
-      "videoCount": 3,
+      "videoCount": 2,
       "groups": [
         {
           "name": "CGI",
           "count": 2
-        },
-        {
-          "name": "Drone Shoot",
-          "count": 1
         }
       ],
       "cover": "/media/cgi/c619e92b7d_p.webp",
@@ -6949,20 +6945,6 @@
           "group": "CGI",
           "postType": null,
           "caption": "Helicopter_reveals_arwaa_logo_delpmaspu_",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "7e21e6c8bc",
-          "kind": "video",
-          "src": "/media/cgi/7e21e6c8bc.mp4",
-          "thumb": null,
-          "poster": "/media/cgi/7e21e6c8bc_p.webp",
-          "width": 1080,
-          "height": 1920,
-          "group": "Drone Shoot",
-          "postType": null,
-          "caption": "HP Engineers_CGI",
           "client": null,
           "slides": null
         }
