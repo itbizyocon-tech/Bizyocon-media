@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T10:21:31.559Z",
+  "generatedAt": "2026-10-02T10:21:58.138Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 200,
+      "count": 199,
       "imageCount": 96,
-      "videoCount": 104,
+      "videoCount": 103,
       "groups": [
         {
           "name": "Vision Ventilla",
@@ -39,7 +39,7 @@
         },
         {
           "name": "Drone Shoot",
-          "count": 12
+          "count": 11
         },
         {
           "name": "Festival",
@@ -937,20 +937,6 @@
           "group": "Drone Shoot",
           "postType": null,
           "caption": "Rudra_Drone video_F",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "bddf9d5383",
-          "kind": "video",
-          "src": "/media/real-estate/bddf9d5383.mp4",
-          "thumb": null,
-          "poster": "/media/real-estate/bddf9d5383_p.webp",
-          "width": 900,
-          "height": 506,
-          "group": "Drone Shoot",
-          "postType": null,
-          "caption": "Shreem Arise Drone Video",
           "client": null,
           "slides": null
         },
