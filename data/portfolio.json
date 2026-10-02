@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-02T04:39:15.502Z",
+  "generatedAt": "2026-10-02T04:39:21.895Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 198,
-      "imageCount": 98,
+      "count": 197,
+      "imageCount": 97,
       "videoCount": 100,
       "groups": [
         {
           "name": "Origin",
-          "count": 12
+          "count": 11
         },
         {
           "name": "Shree Radhe Krishna",
@@ -1295,20 +1295,6 @@
           "group": "Origin",
           "postType": "Normal",
           "caption": "_132851795103453693_n",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "916cb374d9",
-          "kind": "image",
-          "src": "/media/real-estate/916cb374d9.webp",
-          "thumb": "/media/real-estate/916cb374d9_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Origin",
-          "postType": "Normal",
-          "caption": "_4967019650978455981_n",
           "client": null,
           "slides": null
         },
