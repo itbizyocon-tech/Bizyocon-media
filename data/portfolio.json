@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:18:51.281Z",
+  "generatedAt": "2026-10-02T07:19:00.356Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 168,
+      "count": 167,
       "imageCount": 111,
-      "videoCount": 57,
+      "videoCount": 56,
       "groups": [
         {
           "name": "Mital Blowers",
@@ -2862,7 +2862,7 @@
         },
         {
           "name": "Regular post",
-          "count": 21
+          "count": 20
         },
         {
           "name": "Shoot",
@@ -4814,20 +4814,6 @@
           "group": "Regular post",
           "postType": null,
           "caption": "Mahisagar Solar 03",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "0dc5dd9066",
-          "kind": "video",
-          "src": "/media/manufacturing/0dc5dd9066.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/0dc5dd9066_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "Regular post",
-          "postType": null,
-          "caption": "Mittal Blower Ram navami",
           "client": null,
           "slides": null
         },
