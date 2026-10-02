@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T06:38:31.039Z",
+  "generatedAt": "2026-10-02T06:57:13.160Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,10 +2816,14 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 161,
+      "count": 162,
       "imageCount": 111,
-      "videoCount": 50,
+      "videoCount": 51,
       "groups": [
+        {
+          "name": "Bright Equipment",
+          "count": 15
+        },
         {
           "name": "Khodiyar Industries",
           "count": 8
@@ -2831,10 +2835,6 @@
         {
           "name": "Arlon",
           "count": 19
-        },
-        {
-          "name": "Bright Equipment",
-          "count": 14
         },
         {
           "name": "CES Laser",
@@ -2871,6 +2871,22 @@
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
       "items": [
+        {
+          "id": "6d9b06097f",
+          "kind": "video",
+          "src": null,
+          "thumb": null,
+          "poster": null,
+          "width": null,
+          "height": null,
+          "group": "Bright Equipment",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null,
+          "videoUrl": "https://www.instagram.com/reel/DbnrQ9UEaFX/",
+          "videoProvider": "instagram"
+        },
         {
           "id": "c37189f50b",
           "kind": "image",
