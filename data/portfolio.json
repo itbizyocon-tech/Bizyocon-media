@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T06:59:16.024Z",
+  "generatedAt": "2026-10-02T06:59:40.876Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,9 +2816,9 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 161,
+      "count": 160,
       "imageCount": 111,
-      "videoCount": 50,
+      "videoCount": 49,
       "groups": [
         {
           "name": "Bright Equipment",
@@ -2842,7 +2842,7 @@
         },
         {
           "name": "festival Reels",
-          "count": 4
+          "count": 3
         },
         {
           "name": "HP",
@@ -3752,20 +3752,6 @@
           "group": "CES Laser",
           "postType": "Normal",
           "caption": "Turn raw metal into refined excellence. With CES Laser Technology, every cut speaks performance,",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "be9b785ab7",
-          "kind": "video",
-          "src": "/media/manufacturing/be9b785ab7.mp4",
-          "thumb": null,
-          "poster": "/media/manufacturing/be9b785ab7_p.webp",
-          "width": 506,
-          "height": 900,
-          "group": "festival Reels",
-          "postType": null,
-          "caption": "Brightcrane_Mahashivratri",
           "client": null,
           "slides": null
         },
