@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-02T04:12:47.920Z",
+  "generatedAt": "2026-10-02T04:12:57.950Z",
   "categories": [
     {
       "slug": "real-estate",
       "title": "Real Estate",
       "blurb": "Social campaigns, launch films & drone shoots for property brands.",
-      "count": 199,
-      "imageCount": 99,
+      "count": 198,
+      "imageCount": 98,
       "videoCount": 100,
       "groups": [
         {
@@ -15,7 +15,7 @@
         },
         {
           "name": "Shree Radhe Krishna",
-          "count": 18
+          "count": 17
         },
         {
           "name": "Vision Ventilla",
@@ -2429,20 +2429,6 @@
           "group": "SB Cristoria",
           "postType": "Normal",
           "caption": "Welcome to Crestoria—thoughtfully designed 3 BHK Family Apartments built for modern living, ult",
-          "client": null,
-          "slides": null
-        },
-        {
-          "id": "f25aea9c78",
-          "kind": "image",
-          "src": "/media/real-estate/f25aea9c78.webp",
-          "thumb": "/media/real-estate/f25aea9c78_t.webp",
-          "poster": null,
-          "width": 1080,
-          "height": 1350,
-          "group": "Shree Radhe Krishna",
-          "postType": "Festival",
-          "caption": "As Bappa returns, let’s carry His blessings in our hearts.📍 3BHK Flats & Shops - 30+ Amenities.",
           "client": null,
           "slides": null
         },
