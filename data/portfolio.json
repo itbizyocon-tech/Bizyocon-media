@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:23:29.599Z",
+  "generatedAt": "2026-10-02T07:23:41.669Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -2816,13 +2816,13 @@
       "slug": "manufacturing",
       "title": "Manufacturing",
       "blurb": "Industrial brand content, product graphics & shoot production.",
-      "count": 178,
+      "count": 179,
       "imageCount": 111,
-      "videoCount": 67,
+      "videoCount": 68,
       "groups": [
         {
           "name": "CES Laser",
-          "count": 17
+          "count": 18
         },
         {
           "name": "Arlon",
@@ -2871,6 +2871,22 @@
       ],
       "cover": "/media/manufacturing/fe25194ef8_t.webp",
       "items": [
+        {
+          "id": "1cdca028dc",
+          "kind": "video",
+          "src": null,
+          "thumb": null,
+          "poster": null,
+          "width": null,
+          "height": null,
+          "group": "CES Laser",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null,
+          "videoUrl": "https://www.facebook.com/reel/2557640234696463",
+          "videoProvider": "facebook"
+        },
         {
           "id": "1902e9635f",
           "kind": "video",
