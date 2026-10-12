@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T08:58:47.020Z",
+  "generatedAt": "2026-10-12T08:58:52.976Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -7131,10 +7131,14 @@
       "slug": "brand-identity",
       "title": "Branding",
       "blurb": "Brochures, visiting cards and brand collateral designed to make a lasting impression.",
-      "count": 11,
-      "imageCount": 11,
+      "count": 12,
+      "imageCount": 12,
       "videoCount": 0,
       "groups": [
+        {
+          "name": "HP Engineers",
+          "count": 1
+        },
         {
           "name": "Akshar Kutir",
           "count": 1
@@ -7162,6 +7166,20 @@
       ],
       "cover": "/media/brand-identity/c8a7e88dd2_t.webp",
       "items": [
+        {
+          "id": "5c678fd089",
+          "kind": "image",
+          "src": "/media/brand-identity/5c678fd089.webp",
+          "thumb": "/media/brand-identity/5c678fd089_t.webp",
+          "poster": null,
+          "width": 1160,
+          "height": 2000,
+          "group": "HP Engineers",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "392e680b10",
           "kind": "image",
