@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T08:32:55.488Z",
+  "generatedAt": "2026-10-12T08:58:31.755Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -7131,10 +7131,14 @@
       "slug": "brand-identity",
       "title": "Branding",
       "blurb": "Brochures, visiting cards and brand collateral designed to make a lasting impression.",
-      "count": 8,
-      "imageCount": 8,
+      "count": 9,
+      "imageCount": 9,
       "videoCount": 0,
       "groups": [
+        {
+          "name": "Shree Radhe Krishna",
+          "count": 1
+        },
         {
           "name": "Pushpam Flora",
           "count": 1
@@ -7150,6 +7154,20 @@
       ],
       "cover": "/media/brand-identity/c8a7e88dd2_t.webp",
       "items": [
+        {
+          "id": "486b134e6a",
+          "kind": "image",
+          "src": "/media/brand-identity/486b134e6a.webp",
+          "thumb": "/media/brand-identity/486b134e6a_t.webp",
+          "poster": null,
+          "width": 1160,
+          "height": 2000,
+          "group": "Shree Radhe Krishna",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "a90ce57120",
           "kind": "image",
