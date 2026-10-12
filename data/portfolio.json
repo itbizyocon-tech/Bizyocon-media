@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T08:58:59.216Z",
+  "generatedAt": "2026-10-12T08:59:06.340Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -7131,10 +7131,14 @@
       "slug": "brand-identity",
       "title": "Branding",
       "blurb": "Brochures, visiting cards and brand collateral designed to make a lasting impression.",
-      "count": 13,
-      "imageCount": 13,
+      "count": 14,
+      "imageCount": 14,
       "videoCount": 0,
       "groups": [
+        {
+          "name": "Origin",
+          "count": 1
+        },
         {
           "name": "Swastik Elenza",
           "count": 1
@@ -7170,6 +7174,20 @@
       ],
       "cover": "/media/brand-identity/c8a7e88dd2_t.webp",
       "items": [
+        {
+          "id": "da1b8f891e",
+          "kind": "image",
+          "src": "/media/brand-identity/da1b8f891e.webp",
+          "thumb": "/media/brand-identity/da1b8f891e_t.webp",
+          "poster": null,
+          "width": 1071,
+          "height": 2000,
+          "group": "Origin",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "95461c5371",
           "kind": "image",
