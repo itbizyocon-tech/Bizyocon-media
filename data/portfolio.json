@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T08:58:52.976Z",
+  "generatedAt": "2026-10-12T08:58:59.216Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -7131,10 +7131,14 @@
       "slug": "brand-identity",
       "title": "Branding",
       "blurb": "Brochures, visiting cards and brand collateral designed to make a lasting impression.",
-      "count": 12,
-      "imageCount": 12,
+      "count": 13,
+      "imageCount": 13,
       "videoCount": 0,
       "groups": [
+        {
+          "name": "Swastik Elenza",
+          "count": 1
+        },
         {
           "name": "HP Engineers",
           "count": 1
@@ -7166,6 +7170,20 @@
       ],
       "cover": "/media/brand-identity/c8a7e88dd2_t.webp",
       "items": [
+        {
+          "id": "95461c5371",
+          "kind": "image",
+          "src": "/media/brand-identity/95461c5371.webp",
+          "thumb": "/media/brand-identity/95461c5371_t.webp",
+          "poster": null,
+          "width": 655,
+          "height": 2000,
+          "group": "Swastik Elenza",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "5c678fd089",
           "kind": "image",
