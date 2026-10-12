@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:21:58.138Z",
+  "generatedAt": "2026-10-12T05:03:36.447Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -7131,10 +7131,14 @@
       "slug": "brand-identity",
       "title": "Branding",
       "blurb": "Brochures, visiting cards and brand collateral designed to make a lasting impression.",
-      "count": 6,
-      "imageCount": 6,
+      "count": 7,
+      "imageCount": 7,
       "videoCount": 0,
       "groups": [
+        {
+          "name": "Bright Crane Equipment",
+          "count": 1
+        },
         {
           "name": null,
           "count": 6
@@ -7142,6 +7146,20 @@
       ],
       "cover": "/media/brand-identity/c8a7e88dd2_t.webp",
       "items": [
+        {
+          "id": "fc2f5e3fd4",
+          "kind": "image",
+          "src": "/media/brand-identity/fc2f5e3fd4.webp",
+          "thumb": "/media/brand-identity/fc2f5e3fd4_t.webp",
+          "poster": null,
+          "width": 653,
+          "height": 2000,
+          "group": "Bright Crane Equipment",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "c8a7e88dd2",
           "kind": "image",
