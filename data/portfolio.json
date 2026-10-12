@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T08:58:39.768Z",
+  "generatedAt": "2026-10-12T08:58:47.020Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -7131,10 +7131,14 @@
       "slug": "brand-identity",
       "title": "Branding",
       "blurb": "Brochures, visiting cards and brand collateral designed to make a lasting impression.",
-      "count": 10,
-      "imageCount": 10,
+      "count": 11,
+      "imageCount": 11,
       "videoCount": 0,
       "groups": [
+        {
+          "name": "Akshar Kutir",
+          "count": 1
+        },
         {
           "name": "Vision Ventilla",
           "count": 1
@@ -7158,6 +7162,20 @@
       ],
       "cover": "/media/brand-identity/c8a7e88dd2_t.webp",
       "items": [
+        {
+          "id": "392e680b10",
+          "kind": "image",
+          "src": "/media/brand-identity/392e680b10.webp",
+          "thumb": "/media/brand-identity/392e680b10_t.webp",
+          "poster": null,
+          "width": 1134,
+          "height": 2000,
+          "group": "Akshar Kutir",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "b1b8259974",
           "kind": "image",
