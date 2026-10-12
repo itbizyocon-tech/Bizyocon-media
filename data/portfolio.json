@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T08:58:31.755Z",
+  "generatedAt": "2026-10-12T08:58:39.768Z",
   "categories": [
     {
       "slug": "real-estate",
@@ -7131,10 +7131,14 @@
       "slug": "brand-identity",
       "title": "Branding",
       "blurb": "Brochures, visiting cards and brand collateral designed to make a lasting impression.",
-      "count": 9,
-      "imageCount": 9,
+      "count": 10,
+      "imageCount": 10,
       "videoCount": 0,
       "groups": [
+        {
+          "name": "Vision Ventilla",
+          "count": 1
+        },
         {
           "name": "Shree Radhe Krishna",
           "count": 1
@@ -7154,6 +7158,20 @@
       ],
       "cover": "/media/brand-identity/c8a7e88dd2_t.webp",
       "items": [
+        {
+          "id": "b1b8259974",
+          "kind": "image",
+          "src": "/media/brand-identity/b1b8259974.webp",
+          "thumb": "/media/brand-identity/b1b8259974_t.webp",
+          "poster": null,
+          "width": 1172,
+          "height": 2000,
+          "group": "Vision Ventilla",
+          "postType": null,
+          "caption": null,
+          "client": null,
+          "slides": null
+        },
         {
           "id": "486b134e6a",
           "kind": "image",
